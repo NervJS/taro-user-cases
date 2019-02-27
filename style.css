@@ -1,0 +1,28 @@
+body {
+  font-family: "PingFang SC";
+}
+
+#app {
+  width: 900px; 
+}
+
+table {
+  width: 100%;
+}
+
+h2 {
+  margin-left: 15px;
+  font-weight: 300;
+}
+
+p {
+  font-size: 12px;
+  line-height: 0.8;
+  color: #777;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.hidden {
+  visibility: hidden;
+}
