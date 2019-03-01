@@ -246,7 +246,7 @@ const userCases = {
     },
     {
       name: '爱享到',
-      url: 'https://user-images.githubusercontent.com/30850497/52847223-8deb7180-3146-11e9-90f4-e668233284f9.jpg'
+      url: 'https://user-images.githubusercontent.com/14814560/52850049-84193c80-314d-11e9-8048-e4b48edeadf1.png'
     },
   ],
   '百度智能小程序': [
