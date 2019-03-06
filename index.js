@@ -216,6 +216,10 @@ const userCases = {
       name: '爱享到',
       url: 'https://user-images.githubusercontent.com/14814560/52850000-63e97d80-314d-11e9-8e03-57e15d17900d.jpg',
     },
+    {
+      name: 'Giteer',
+      url: 'https://user-images.githubusercontent.com/13462780/53848985-5a875e80-3ff1-11e9-836b-10d3d07658db.jpg',
+    },
   ],
   'H5': [
     {
