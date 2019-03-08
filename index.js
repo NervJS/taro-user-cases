@@ -220,6 +220,10 @@ const userCases = {
       name: 'Giteer',
       url: 'https://user-images.githubusercontent.com/13462780/53848985-5a875e80-3ff1-11e9-836b-10d3d07658db.jpg',
     },
+    {
+      name:'剪刀侠',
+      url:'https://tc.woaap.com/jdx/jiandaoxiaqr.png',
+    }
   ],
   'H5': [
     {
