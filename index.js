@@ -260,7 +260,7 @@ const userCases = {
     },
     {
       name: 'CSDN',
-      url: 'https://csdnimg.cn/weapp/csdn_weapp/CSDN.png'
+      url: 'http://ww1.sinaimg.cn/large/49320207gy1g0vdgu2mphj2046046t8i.jpg'
     }
   ],
   '移动端应用': [
