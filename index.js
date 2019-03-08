@@ -223,6 +223,10 @@ const userCases = {
     {
       name:'剪刀侠',
       url:'https://tc.woaap.com/jdx/jiandaoxiaqr.png',
+    },
+    {
+      name:'AE-EDIT',
+      url:'https://user-images.githubusercontent.com/24741025/53931673-25ead400-40d1-11e9-84f5-4e217dfc9f4f.jpg',
     }
   ],
   'H5': [
