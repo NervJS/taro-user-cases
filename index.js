@@ -227,7 +227,11 @@ const userCases = {
     {
       name:'AE-EDIT',
       url:'https://user-images.githubusercontent.com/24741025/53931673-25ead400-40d1-11e9-84f5-4e217dfc9f4f.jpg',
-    }
+    },
+    {
+      name:'Natsuha Weather',
+      url:'https://yancey-assets.oss-cn-beijing.aliyuncs.com/natsuha_344.jpg',
+    },
   ],
   'H5': [
     {
