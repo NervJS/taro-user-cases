@@ -232,6 +232,26 @@ const userCases = {
       name:'Natsuha Weather',
       url:'https://yancey-assets.oss-cn-beijing.aliyuncs.com/natsuha_344.jpg',
     },
+    {
+      name:'备案查询助手',
+      url:'https://user-images.githubusercontent.com/25195267/54258064-65fffa00-459c-11e9-9cc2-4ff4e6dba973.jpg',
+    },
+    {
+      name:'钢琴轻音乐曲谱',
+      url:'https://user-images.githubusercontent.com/25195267/54258064-65fffa00-459c-11e9-9cc2-4ff4e6dba973.jpg',
+    },
+    {
+      name:'启东实时公交',
+      url:'https://camo.githubusercontent.com/d5e32a59552fd5f754221cc4717f4285eab1350f/687474703a2f2f6262732e7169646f6e672e676f762e636e2f646174612f6174746163686d656e742f666f72756d2f3230313930332f31362f313635303435756d6c6832616d6d766875333275616c2e6a7067',
+    },
+    {
+      name:'动态密码验证',
+      url:'https://camo.githubusercontent.com/6127c7c6c0fd2801ba1fa5557eafebbb7c5ca206/68747470733a2f2f692e6c6f6c692e6e65742f323031392f30332f32322f356339343730643364636137302e6a7067',
+    },
+    {
+      name: '距离多远',
+      url:'https://user-images.githubusercontent.com/6435874/54963306-422cb300-4fa3-11e9-8c0c-bde74cd43833.png',
+    },
   ],
   'H5': [
     {
@@ -273,13 +293,17 @@ const userCases = {
     {
       name: 'CSDN',
       url: 'http://ww1.sinaimg.cn/large/49320207gy1g0vdgu2mphj2046046t8i.jpg'
-    }
+    },
+    {
+      name: '启信宝',
+      url: 'https://user-images.githubusercontent.com/38108442/54411078-fcf9bd00-4728-11e9-9e4d-c61f6ff43f86.png'
+    },
   ],
   '移动端应用': [
     {
       name: '仿网易严选',
       url: 'https://qr.api.cli.im/qr?data=https%253A%252F%252Fsnack.expo.io%252F%2540caiminxing%252Ftaro-yanxuan&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=ad14cc9c74800daec783744be81d68d8'
-    }
+    },
   ]
 }
 
