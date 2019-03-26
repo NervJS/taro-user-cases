@@ -238,7 +238,7 @@ const userCases = {
     },
     {
       name:'钢琴轻音乐曲谱',
-      url:'https://user-images.githubusercontent.com/25195267/54258064-65fffa00-459c-11e9-9cc2-4ff4e6dba973.jpg',
+      url:'https://raw.githubusercontent.com/zhouran19880120/ad/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%A0%81.jpg',
     },
     {
       name:'启东实时公交',
