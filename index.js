@@ -252,6 +252,10 @@ const userCases = {
       name: '距离多远',
       url:'https://user-images.githubusercontent.com/6435874/54963306-422cb300-4fa3-11e9-8c0c-bde74cd43833.png',
     },
+    {
+      name: '业之峰装饰',
+      url:'https://yenova-bucket1.oss-cn-qingdao.aliyuncs.com/2019/yzfxcx.png',
+    },
   ],
   'H5': [
     {
@@ -297,6 +301,10 @@ const userCases = {
     {
       name: '启信宝',
       url: 'https://user-images.githubusercontent.com/38108442/54411078-fcf9bd00-4728-11e9-9e4d-c61f6ff43f86.png'
+    },
+    {
+      name: '业之峰装饰集团',
+      url: 'https://yenova-bucket1.oss-cn-qingdao.aliyuncs.com/2019/yzfbdxcx.png'
     },
   ],
   '移动端应用': [
