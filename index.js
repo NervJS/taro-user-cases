@@ -1,10 +1,6 @@
 const userCases = {
   '微信小程序': [
-    {
-      name: '小地铁通',
-      url: 'https://github.com/metromancn/temp/blob/master/metromanmp.png',
-    },
-    {
+   {
       name: '京东购物',
       url: 'http://storage.jd.com/taro-resource/cases/京东购物.png',
     },
@@ -263,6 +259,10 @@ const userCases = {
     {
       name: '魔方9号楼',
       url:'http://52mf.oss-cn-beijing.aliyuncs.com/unit9.jpg'
+    },
+    {
+      name: '小地铁通',
+      url: 'https://ws1.sinaimg.cn/large/49320207gy1g1ypap1hwyj20m80m8q5d.jpg',
     }
   ],
   'H5': [
