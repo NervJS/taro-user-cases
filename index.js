@@ -256,6 +256,10 @@ const userCases = {
       name: '业之峰装饰',
       url:'https://yenova-bucket1.oss-cn-qingdao.aliyuncs.com/2019/yzfxcx.png',
     },
+    {
+      name: '魔方9号楼',
+      url:'http://52mf.oss-cn-beijing.aliyuncs.com/unit9.jpg'
+    }
   ],
   'H5': [
     {
