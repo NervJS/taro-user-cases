@@ -266,7 +266,7 @@ const userCases = {
     },
     {
       name: '酸壁纸',
-      url: 'https://i.loli.net/2019/04/12/5cb02653a4f3b.jpg',
+      url: 'https://user-images.githubusercontent.com/7885757/56015407-8e118300-5d2b-11e9-87ae-003589cb5069.jpg',
     },
   ],
   'H5': [
