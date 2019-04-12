@@ -263,6 +263,10 @@ const userCases = {
     {
       name: '小地铁通',
       url: 'https://ws1.sinaimg.cn/large/49320207gy1g1ypap1hwyj20m80m8q5d.jpg',
+    },
+    {
+      name: '马卡龙玩图',
+      url: 'https://static01.versa-ai.com/upload/09e8ff91612b/37f5a990-6037-4ebf-a3c8-ae38b0b07270.jpg',
     }
   ],
   'H5': [
