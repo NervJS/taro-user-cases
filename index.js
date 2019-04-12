@@ -263,7 +263,11 @@ const userCases = {
     {
       name: '小地铁通',
       url: 'https://ws1.sinaimg.cn/large/49320207gy1g1ypap1hwyj20m80m8q5d.jpg',
-    }
+    },
+    {
+      name: '酸壁纸',
+      url: 'https://i.loli.net/2019/04/12/5cb02653a4f3b.jpg',
+    },
   ],
   'H5': [
     {
