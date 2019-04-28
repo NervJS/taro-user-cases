@@ -265,6 +265,10 @@ const userCases = {
       url: 'https://ws1.sinaimg.cn/large/49320207gy1g1ypap1hwyj20m80m8q5d.jpg',
     },
     {
+      name: '酸壁纸',
+      url: 'https://user-images.githubusercontent.com/7885757/56015407-8e118300-5d2b-11e9-87ae-003589cb5069.jpg',
+    },
+    {
       name: '考勤 Attnd',
       url: 'http://pqnt2ecx1.bkt.clouddn.com/LBS-Attnd.jpg',
     }
