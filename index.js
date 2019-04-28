@@ -263,6 +263,10 @@ const userCases = {
     {
       name: '小地铁通',
       url: 'https://ws1.sinaimg.cn/large/49320207gy1g1ypap1hwyj20m80m8q5d.jpg',
+    },
+    {
+      name: '考勤 Attnd',
+      url: 'http://pqnt2ecx1.bkt.clouddn.com/LBS-Attnd.jpg',
     }
   ],
   'H5': [
