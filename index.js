@@ -268,6 +268,10 @@ const userCases = {
       name: '酸壁纸',
       url: 'https://user-images.githubusercontent.com/7885757/56015407-8e118300-5d2b-11e9-87ae-003589cb5069.jpg',
     },
+    {
+      name: '考勤 Attnd',
+      url: 'http://pqnt2ecx1.bkt.clouddn.com/LBS-Attnd.jpg',
+    }
   ],
   'H5': [
     {
