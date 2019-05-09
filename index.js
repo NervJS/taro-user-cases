@@ -276,6 +276,30 @@ const userCases = {
       name: '考勤 Attnd',
       url: 'http://pqnt2ecx1.bkt.clouddn.com/LBS-Attnd.jpg'
     },
+    {
+      name: '报考管家',
+      url: 'https://user-images.githubusercontent.com/20960902/55077973-02b1b400-50d4-11e9-8023-d33edd936dfe.jpg'
+    },
+    {
+      name: '奇妙壁纸',
+      url: 'https://user-images.githubusercontent.com/36564529/55272719-b9dc4400-52fb-11e9-8efd-853941474a4b.png'
+    },
+    {
+      name: '集客商城',
+      url: 'https://user-images.githubusercontent.com/2168473/56793629-0190b580-683f-11e9-8cdb-f540d941a4bf.png'
+    },
+    {
+      name: '拼多多卷商',
+      url: 'https://user-images.githubusercontent.com/2168473/56793746-43216080-683f-11e9-926d-e456ed648550.png'
+    },
+    {
+      name: '题多多搜题',
+      url: 'https://user-images.githubusercontent.com/16409424/56859246-a4ba0a00-69ba-11e9-9941-d43e3cdebef0.png'
+    },
+    {
+      name: 'Koopa',
+      url: 'https://user-images.githubusercontent.com/13031838/57196074-e4b95800-6f8b-11e9-9a61-3bcdd45c2062.jpg'
+    },
   ],
   'H5': [
     {
@@ -297,6 +321,14 @@ const userCases = {
     {
       name: '仿网易严选',
       url: 'https://camo.githubusercontent.com/b0f85f75689c94ebf935d1d924d73f381153277e/68747470733a2f2f7169742d7465616d2e6769746875622e696f2f7075626c69632f696d616765732f7461726f2d79616e7875616e2f68352d71722d636f64652e706e67'
+    },
+    {
+      name: '报考管家',
+      url: 'https://user-images.githubusercontent.com/20960902/55078112-53291180-50d4-11e9-8876-21a270fec3f1.png'
+    },
+    {
+      name: '淘宝卷商',
+      url: 'https://user-images.githubusercontent.com/2168473/56794061-f68a5500-683f-11e9-90ba-32e878dca9c3.png'
     },
   ],
   '支付宝小程序': [
@@ -325,6 +357,10 @@ const userCases = {
     {
       name: '业之峰装饰集团',
       url: 'https://yenova-bucket1.oss-cn-qingdao.aliyuncs.com/2019/yzfbdxcx.png'
+    },
+    {
+      name: '钢琴轻音乐曲谱',
+      url: 'https://raw.githubusercontent.com/zhouran19880120/ad/master/baidu_miniprogram.png'
     },
   ],
   '移动端应用': [
