@@ -262,7 +262,7 @@ const userCases = {
     },
     {
       name: '小地铁通',
-      url: 'https://ws1.sinaimg.cn/large/49320207gy1g1ypap1hwyj20m80m8q5d.jpg',
+      url: 'https://user-images.githubusercontent.com/7202516/57452352-26047d00-7296-11e9-9ead-08737c540ea0.jpg',
     },
     {
       name: '马卡龙玩图',
