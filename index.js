@@ -230,7 +230,7 @@ const userCases = {
     },
     {
       name:'Natsuha Weather',
-      url:'https://yancey-assets.oss-cn-beijing.aliyuncs.com/natsuha_344.jpg',
+      url:'https://user-images.githubusercontent.com/7202516/57504280-73c8c600-7326-11e9-896f-733991ac58d2.jpg',
     },
     {
       name:'备案查询助手',
