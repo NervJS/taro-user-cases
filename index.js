@@ -304,7 +304,7 @@ const userCases = {
   'H5': [
     {
       name: '作业部落',
-      url: 'https://qr.api.cli.im/qr?data=https%253A%252F%252Fwx.zy.com%252Fmpzuoye%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=7888904f61917032354a9e5f911ab0bd'
+      url: 'https://user-images.githubusercontent.com/7202516/57504894-efc40d80-7328-11e9-9414-518c5b20e301.png'
     },
     {
       name: '猫眼电影',
