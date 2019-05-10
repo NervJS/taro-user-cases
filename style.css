@@ -1,5 +1,5 @@
 body {
-  font-family: "PingFang SC", 'Noto Sans SC', sans-serif;
+  font-family: "PingFang SC", 'Noto Sans SC', 'Noto Sans CJK SC', 'Noto Sans CJK', 'Source Han Sans', source-han-sans-simplified-c, sans-serif;
 }
 
 #app {
