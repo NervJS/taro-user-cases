@@ -323,12 +323,12 @@ const userCases = {
       url: 'https://camo.githubusercontent.com/b0f85f75689c94ebf935d1d924d73f381153277e/68747470733a2f2f7169742d7465616d2e6769746875622e696f2f7075626c69632f696d616765732f7461726f2d79616e7875616e2f68352d71722d636f64652e706e67'
     },
     {
-      name: '报考管家',
-      url: 'https://user-images.githubusercontent.com/20960902/55078112-53291180-50d4-11e9-8876-21a270fec3f1.png'
-    },
-    {
       name: '淘宝卷商',
       url: 'https://user-images.githubusercontent.com/2168473/56794061-f68a5500-683f-11e9-90ba-32e878dca9c3.png'
+    },
+    {
+      name: '报考管家',
+      url: 'https://user-images.githubusercontent.com/20960902/55078112-53291180-50d4-11e9-8876-21a270fec3f1.png'
     },
   ],
   '支付宝小程序': [
