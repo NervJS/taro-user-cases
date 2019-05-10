@@ -222,7 +222,7 @@ const userCases = {
     },
     {
       name:'剪刀侠',
-      url:'https://tc.woaap.com/jdx/jiandaoxiaqr.png',
+      url:'https://user-images.githubusercontent.com/7202516/57500122-b2ee1b80-7314-11e9-9fda-e6e6f44b9230.png',
     },
     {
       name:'AE-EDIT',
