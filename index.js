@@ -300,6 +300,10 @@ const userCases = {
       name: 'Koopa',
       url: 'https://user-images.githubusercontent.com/13031838/57196074-e4b95800-6f8b-11e9-9a61-3bcdd45c2062.jpg'
     },
+    {
+      name: '激似',
+      url: 'https://user-images.githubusercontent.com/7518455/57525808-4ac42780-735e-11e9-8955-f163775168b0.jpg'
+    },
   ],
   'H5': [
     {
