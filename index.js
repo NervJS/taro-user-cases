@@ -366,6 +366,10 @@ const userCases = {
       name: '钢琴轻音乐曲谱',
       url: 'https://raw.githubusercontent.com/zhouran19880120/ad/master/baidu_miniprogram.png'
     },
+    {
+      name: '柠檬爱美',
+      url: 'https://lemon.cdn.bcebos.com/lemon-b/%E6%9F%A0%E6%AA%AC%E7%88%B1%E7%BE%8E.png'
+    }
   ],
   '移动端应用': [
     {
