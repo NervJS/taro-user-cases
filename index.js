@@ -308,6 +308,10 @@ const userCases = {
       name: '豆豆菜谱',
       url: 'https://user-images.githubusercontent.com/7202516/57913059-5b285500-78be-11e9-9b05-97f6e567f7c8.jpeg'
     },
+    {
+      name: '你头像真棒',
+      url: 'https://user-images.githubusercontent.com/31771183/57899485-d1fa2980-788f-11e9-923c-9af4ab2e3854.jpg'
+    },
   ],
   'H5': [
     {
@@ -372,7 +376,7 @@ const userCases = {
     },
     {
       name: '柠檬爱美',
-      url: 'https://lemon.cdn.bcebos.com/lemon-b/%E6%9F%A0%E6%AA%AC%E7%88%B1%E7%BE%8E.png'
+      url: 'https://user-images.githubusercontent.com/7202516/57913062-60859f80-78be-11e9-9eeb-4543d17f5218.png'
     }
   ],
   '移动端应用': [
