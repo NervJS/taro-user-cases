@@ -306,7 +306,7 @@ const userCases = {
     },
     {
       name: '豆豆菜谱',
-      url: 'https://ddcp.cdn.bcebos.com/other%2Ficons%2Fweapp_qrcode.jpeg'
+      url: 'https://user-images.githubusercontent.com/7202516/57913059-5b285500-78be-11e9-9b05-97f6e567f7c8.jpeg'
     },
   ],
   'H5': [
