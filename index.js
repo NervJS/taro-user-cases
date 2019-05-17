@@ -304,6 +304,10 @@ const userCases = {
       name: '激似',
       url: 'https://user-images.githubusercontent.com/7518455/57525808-4ac42780-735e-11e9-8955-f163775168b0.jpg'
     },
+    {
+      name: '豆豆菜谱',
+      url: 'https://user-images.githubusercontent.com/7202516/57913059-5b285500-78be-11e9-9b05-97f6e567f7c8.jpeg'
+    },
   ],
   'H5': [
     {
