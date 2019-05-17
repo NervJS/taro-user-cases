@@ -242,7 +242,7 @@ const userCases = {
     },
     {
       name:'启东实时公交',
-      url:'https://camo.githubusercontent.com/d5e32a59552fd5f754221cc4717f4285eab1350f/687474703a2f2f6262732e7169646f6e672e676f762e636e2f646174612f6174746163686d656e742f666f72756d2f3230313930332f31362f313635303435756d6c6832616d6d766875333275616c2e6a7067',
+      url:'https://user-images.githubusercontent.com/7202516/57913946-42b93a00-78c0-11e9-862b-a732eb28a179.jpeg',
     },
     {
       name:'动态密码验证',
