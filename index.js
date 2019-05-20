@@ -354,6 +354,10 @@ const userCases = {
       name: '报考管家',
       url: 'https://user-images.githubusercontent.com/20960902/55078112-53291180-50d4-11e9-8876-21a270fec3f1.png'
     },
+    {
+      name: 'SteamCN 蒸汽动力',
+      url: 'https://user-images.githubusercontent.com/9652227/58032363-08b49600-7b55-11e9-9d0f-469fbdf88ad3.png'
+    },
   ],
   '支付宝小程序': [
     {
