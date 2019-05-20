@@ -312,6 +312,18 @@ const userCases = {
       name: '你头像真棒',
       url: 'https://user-images.githubusercontent.com/31771183/57899485-d1fa2980-788f-11e9-923c-9af4ab2e3854.jpg'
     },
+    {
+      name: '听一听',
+      url: 'https://user-images.githubusercontent.com/127009/57964828-312e6b80-796e-11e9-9401-eb98405dd0de.jpg'
+    },
+    {
+      name: '宝宝乐学',
+      url: 'https://user-images.githubusercontent.com/5229158/57964786-cbda7a80-796d-11e9-8369-d914f5a8d4ff.jpg'
+    },
+    {
+      name: '贝壳学堂',
+      url: 'https://user-images.githubusercontent.com/18849626/57982872-8e651280-7a7d-11e9-9b78-dd6136d63248.png'
+    },
   ],
   'H5': [
     {
