@@ -324,6 +324,10 @@ const userCases = {
       name: '贝壳学堂',
       url: 'https://user-images.githubusercontent.com/18849626/57982872-8e651280-7a7d-11e9-9b78-dd6136d63248.png'
     },
+    {
+      name: 'SteamCN 蒸汽动力',
+      url: 'https://user-images.githubusercontent.com/9652227/58032363-08b49600-7b55-11e9-9d0f-469fbdf88ad3.png'
+    },
   ],
   'H5': [
     {
