@@ -330,7 +330,7 @@ const userCases = {
     },
     {
       name: '学伴',
-      url: 'https://lg-h3uzb6rq-1252872558.cos.ap-shanghai.myqcloud.com/logo.png'
+      url: 'https://lg-h3uzb6rq-1252872558.cos.ap-shanghai.myqcloud.com/xueban_mini_program.jpg'
     }
   ],
   'H5': [
