@@ -330,7 +330,7 @@ const userCases = {
     },
     {
       name: '学伴',
-      url: 'https://lg-h3uzb6rq-1252872558.cos.ap-shanghai.myqcloud.com/xueban_mini_program.jpg'
+      url: 'https://user-images.githubusercontent.com/7202516/58466803-03ff6b80-816d-11e9-8afd-f56bdff5a60a.jpg'
     }
   ],
   'H5': [
@@ -364,7 +364,7 @@ const userCases = {
     },
     {
       name: '学伴',
-      url: 'https://lg-h3uzb6rq-1252872558.cos.ap-shanghai.myqcloud.com/h5.png'
+      url: 'https://user-images.githubusercontent.com/7202516/58466807-06fa5c00-816d-11e9-81ec-9be385d8a4d1.png'
     }
   ],
   '支付宝小程序': [
