@@ -273,10 +273,6 @@ const userCases = {
       url: 'https://user-images.githubusercontent.com/7885757/56015407-8e118300-5d2b-11e9-87ae-003589cb5069.jpg',
     },
     {
-      name: '考勤 Attnd',
-      url: 'http://pqnt2ecx1.bkt.clouddn.com/LBS-Attnd.jpg'
-    },
-    {
       name: '报考管家',
       url: 'https://user-images.githubusercontent.com/20960902/55077973-02b1b400-50d4-11e9-8023-d33edd936dfe.jpg'
     },
