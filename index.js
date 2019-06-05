@@ -334,7 +334,7 @@ const userCases = {
     },
     {
       name: '创业问',
-      url: 'https://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3835045245&token=392416120'
+      url: 'https://img-blog.csdnimg.cn/20190605111612163.jpg'
     }
   ],
   'H5': [
