@@ -334,7 +334,7 @@ const userCases = {
     },
     {
       name: '创业问',
-      url: 'https://img-blog.csdnimg.cn/20190605111612163.jpg'
+      url: 'https://user-images.githubusercontent.com/7202516/58928098-b940ad80-8783-11e9-91e3-f2c2d1359f91.jpg'
     }
   ],
   'H5': [
