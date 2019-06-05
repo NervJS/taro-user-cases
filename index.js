@@ -331,6 +331,10 @@ const userCases = {
     {
       name: 'NBA数据统计',
       url: 'https://user-images.githubusercontent.com/3993655/58761178-d43cd300-8573-11e9-9066-c05fc7452457.png'
+    },
+    {
+      name: '创业问',
+      url: 'https://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3835045245&token=392416120'
     }
   ],
   'H5': [
