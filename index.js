@@ -1,6 +1,6 @@
 const userCases = {
   '微信小程序': [
-   {
+    {
       name: '京东购物',
       url: 'http://storage.jd.com/taro-resource/cases/京东购物.png',
     },
@@ -221,44 +221,44 @@ const userCases = {
       url: 'https://user-images.githubusercontent.com/13462780/53848985-5a875e80-3ff1-11e9-836b-10d3d07658db.jpg',
     },
     {
-      name:'剪刀侠',
-      url:'https://user-images.githubusercontent.com/7202516/57500122-b2ee1b80-7314-11e9-9fda-e6e6f44b9230.png',
+      name: '剪刀侠',
+      url: 'https://user-images.githubusercontent.com/7202516/57500122-b2ee1b80-7314-11e9-9fda-e6e6f44b9230.png',
     },
     {
-      name:'AE-EDIT',
-      url:'https://user-images.githubusercontent.com/24741025/53931673-25ead400-40d1-11e9-84f5-4e217dfc9f4f.jpg',
+      name: 'AE-EDIT',
+      url: 'https://user-images.githubusercontent.com/24741025/53931673-25ead400-40d1-11e9-84f5-4e217dfc9f4f.jpg',
     },
     {
-      name:'Natsuha Weather',
-      url:'https://user-images.githubusercontent.com/7202516/57504280-73c8c600-7326-11e9-896f-733991ac58d2.jpg',
+      name: 'Natsuha Weather',
+      url: 'https://user-images.githubusercontent.com/7202516/57504280-73c8c600-7326-11e9-896f-733991ac58d2.jpg',
     },
     {
-      name:'备案查询助手',
-      url:'https://user-images.githubusercontent.com/25195267/54258064-65fffa00-459c-11e9-9cc2-4ff4e6dba973.jpg',
+      name: '备案查询助手',
+      url: 'https://user-images.githubusercontent.com/25195267/54258064-65fffa00-459c-11e9-9cc2-4ff4e6dba973.jpg',
     },
     {
-      name:'钢琴轻音乐曲谱',
-      url:'https://raw.githubusercontent.com/zhouran19880120/ad/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%A0%81.jpg',
+      name: '钢琴轻音乐曲谱',
+      url: 'https://raw.githubusercontent.com/zhouran19880120/ad/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%A0%81.jpg',
     },
     {
-      name:'启东实时公交',
-      url:'https://user-images.githubusercontent.com/7202516/57913946-42b93a00-78c0-11e9-862b-a732eb28a179.jpeg',
+      name: '启东实时公交',
+      url: 'https://user-images.githubusercontent.com/7202516/57913946-42b93a00-78c0-11e9-862b-a732eb28a179.jpeg',
     },
     {
-      name:'动态密码验证',
-      url:'https://camo.githubusercontent.com/6127c7c6c0fd2801ba1fa5557eafebbb7c5ca206/68747470733a2f2f692e6c6f6c692e6e65742f323031392f30332f32322f356339343730643364636137302e6a7067',
+      name: '动态密码验证',
+      url: 'https://camo.githubusercontent.com/6127c7c6c0fd2801ba1fa5557eafebbb7c5ca206/68747470733a2f2f692e6c6f6c692e6e65742f323031392f30332f32322f356339343730643364636137302e6a7067',
     },
     {
       name: '距离多远',
-      url:'https://user-images.githubusercontent.com/6435874/54963306-422cb300-4fa3-11e9-8c0c-bde74cd43833.png',
+      url: 'https://user-images.githubusercontent.com/6435874/54963306-422cb300-4fa3-11e9-8c0c-bde74cd43833.png',
     },
     {
       name: '业之峰装饰',
-      url:'https://yenova-bucket1.oss-cn-qingdao.aliyuncs.com/2019/yzfxcx.png',
+      url: 'https://yenova-bucket1.oss-cn-qingdao.aliyuncs.com/2019/yzfxcx.png',
     },
     {
       name: '魔方9号楼',
-      url:'https://user-images.githubusercontent.com/7202516/57462386-560a4b00-72ab-11e9-903e-c449ab9d1c25.jpg'
+      url: 'https://user-images.githubusercontent.com/7202516/57462386-560a4b00-72ab-11e9-903e-c449ab9d1c25.jpg'
     },
     {
       name: '小地铁通',
@@ -335,6 +335,10 @@ const userCases = {
     {
       name: '创业问',
       url: 'https://user-images.githubusercontent.com/7202516/58928098-b940ad80-8783-11e9-91e3-f2c2d1359f91.jpg'
+    },
+    {
+      name: '种子备忘录',
+      url: 'https://raw.githubusercontent.com/wxingheng/example/master/images/todo_list.png'
     }
   ],
   'H5': [
@@ -427,7 +431,7 @@ function chunkArray(ary) {
   return tempAry
 }
 
-function renderCases (cases) {
+function renderCases(cases) {
   return Object.keys(cases).map(key => {
     return `
       <h2>${key}</h2>
@@ -444,18 +448,18 @@ function renderCases (cases) {
   }).join('')
 }
 
-function renderTr (arr) {
+function renderTr(arr) {
   return chunkArray(arr).map(a => {
     return `
       <tr>
         ${a.map(o => {
-          return `
+      return `
             <td align="center">
               <img class="${o.url ? '' : 'hidden'}" height="80" width="80" src="${o.url}" />
               <p class="${o.url ? '' : 'hidden'}">${o.name}</p>
             </td>
           `
-        }).join('')}
+    }).join('')}
       </tr>
     `
   }).join('')
