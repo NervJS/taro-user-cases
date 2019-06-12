@@ -369,6 +369,10 @@ const userCases = {
     {
       name: '学伴',
       url: 'https://user-images.githubusercontent.com/7202516/58466807-06fa5c00-816d-11e9-81ec-9be385d8a4d1.png'
+    },
+    {
+      name: '程序员英语',
+      url: 'https://wx.just-right.cn:8092/Y29kZXIgZW5nbGlzaA==.jpg'
     }
   ],
   '支付宝小程序': [
