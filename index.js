@@ -339,7 +339,11 @@ const userCases = {
     {
       name: '种子备忘录',
       url: 'https://raw.githubusercontent.com/wxingheng/example/master/images/todo_list.png'
-    }
+    },
+    {
+      name: '程序员英语',
+      url: 'https://user-images.githubusercontent.com/7202516/59607522-0fc7c780-9146-11e9-8753-ea9f80d3021a.jpg'
+    },
   ],
   'H5': [
     {
@@ -373,10 +377,6 @@ const userCases = {
     {
       name: '学伴',
       url: 'https://user-images.githubusercontent.com/7202516/58466807-06fa5c00-816d-11e9-81ec-9be385d8a4d1.png'
-    },
-    {
-      name: '程序员英语',
-      url: 'https://user-images.githubusercontent.com/7202516/59607522-0fc7c780-9146-11e9-8753-ea9f80d3021a.jpg'
     }
   ],
   '支付宝小程序': [
