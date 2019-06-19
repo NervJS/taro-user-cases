@@ -344,6 +344,10 @@ const userCases = {
       name: '程序员英语',
       url: 'https://user-images.githubusercontent.com/7202516/59607522-0fc7c780-9146-11e9-8753-ea9f80d3021a.jpg'
     },
+    {
+      name: '电商零售案例',
+      url: 'https://github.com/IooBot/taro-shop-graphql/blob/master/screenshots/ecommerce_xcx.jpg'
+    }
   ],
   'H5': [
     {
