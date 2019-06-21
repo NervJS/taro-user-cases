@@ -344,6 +344,10 @@ const userCases = {
       name: '程序员英语',
       url: 'https://user-images.githubusercontent.com/7202516/59607522-0fc7c780-9146-11e9-8753-ea9f80d3021a.jpg'
     },
+    {
+      name: '数字酋长客服',
+      url: 'https://pg-cdn-a2.datacaciques.com/00/OTQxMw/19/06/21/j74rm9net930cvd4/d4358f75d31c2ea0.jpg'
+    }
   ],
   'H5': [
     {
