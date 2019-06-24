@@ -465,11 +465,11 @@ function renderTr(arr) {
   return chunkArray(arr).map(a => {
     return `<tr>
         ${a.map(o => {
-      return `<td align="center">
-              <img class="${o.url ? '' : 'hidden'}" height="80" width="80" src="${o.url}" />
-              <p class="${o.url ? '' : 'hidden'}">${o.name}</p>
-            </td>`
-    }).join('')}
+          return `<td align="center">
+                  <img class="${o.url ? '' : 'hidden'}" height="80" width="80" src="${o.url}" />
+                  <p class="${o.url ? '' : 'hidden'}">${o.name}</p>
+                </td>` }).join('')
+        }
       </tr>
     `
   }).join('')
