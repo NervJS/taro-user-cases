@@ -347,6 +347,11 @@ const userCases = {
     {
       name: '电商零售案例',
       url: 'https://github.com/IooBot/taro-shop-graphql/blob/master/screenshots/ecommerce_xcx.jpg'
+    },
+    {
+      name: '数字酋长客服',
+      url: 'https://user-images.githubusercontent.com/7202516/59986775-c0642880-966a-11e9-83d9-79f66087d1f2.jpg'
+    },
     }
   ],
   'H5': [
@@ -458,15 +463,12 @@ function renderCases(cases) {
 
 function renderTr(arr) {
   return chunkArray(arr).map(a => {
-    return `
-      <tr>
+    return `<tr>
         ${a.map(o => {
-      return `
-            <td align="center">
+      return `<td align="center">
               <img class="${o.url ? '' : 'hidden'}" height="80" width="80" src="${o.url}" />
               <p class="${o.url ? '' : 'hidden'}">${o.name}</p>
-            </td>
-          `
+            </td>`
     }).join('')}
       </tr>
     `
