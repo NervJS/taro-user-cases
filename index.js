@@ -345,8 +345,13 @@ const userCases = {
       url: 'https://user-images.githubusercontent.com/7202516/59607522-0fc7c780-9146-11e9-8753-ea9f80d3021a.jpg'
     },
     {
+      name: '电商零售案例',
+      url: 'https://github.com/IooBot/taro-shop-graphql/blob/master/screenshots/ecommerce_xcx.jpg'
+    },
+    {
       name: '数字酋长客服',
       url: 'https://user-images.githubusercontent.com/7202516/59986775-c0642880-966a-11e9-83d9-79f66087d1f2.jpg'
+    },
     }
   ],
   'H5': [
