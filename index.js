@@ -433,6 +433,10 @@ const userCases = {
       name: "学伴",
       url:
         "https://user-images.githubusercontent.com/7202516/58466807-06fa5c00-816d-11e9-81ec-9be385d8a4d1.png"
+    },
+    {
+      name: "麦德龙到家",
+      url: "https://user-images.githubusercontent.com/9426456/60314192-5a421300-9994-11e9-9448-a0806a975263.jpg"
     }
   ],
   支付宝小程序: [
