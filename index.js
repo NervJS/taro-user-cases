@@ -457,10 +457,6 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/haowujie.png"
     },
     {
-      name: "CSDN",
-      url: "http://ww1.sinaimg.cn/large/49320207gy1g0vdgu2mphj2046046t8i.jpg"
-    },
-    {
       name: "启信宝",
       url:
         "https://user-images.githubusercontent.com/38108442/54411078-fcf9bd00-4728-11e9-9e4d-c61f6ff43f86.png"
