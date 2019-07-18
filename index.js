@@ -185,6 +185,10 @@ const userCases = {
       url: "https://github.com/hugetiny/quit-smoking/raw/master/weappcode.jpg"
     },
     {
+      name: "酒桌gameing",
+      url: "https://github.com/YTU94/taro-weapp/blob/master/static/QQ20190718-0.png"
+    },
+    {
       name: "赛后",
       url:
         "https://user-images.githubusercontent.com/3993655/50722899-28e93880-1111-11e9-8647-3761b59926a1.jpg"
