@@ -399,11 +399,11 @@ const userCases = {
     },
     {
       name: "西安市最美退役军人评选",
-      url: "https://img-blog.csdnimg.cn/2019080221565792.jpg"
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/vote.jpg"
     },
     {
       name: "赫兹品牌全案服务",
-      url: "https://img-blog.csdnimg.cn/20190802220156839.jpg"
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/hotel.jpg"
     }
   ],
   H5: [
