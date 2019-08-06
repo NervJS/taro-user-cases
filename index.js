@@ -185,6 +185,10 @@ const userCases = {
       url: "https://github.com/hugetiny/quit-smoking/raw/master/weappcode.jpg"
     },
     {
+      name: "酒桌gameing",
+      url: "https://github.com/YTU94/taro-weapp/blob/master/static/QQ20190718-0.png"
+    },
+    {
       name: "赛后",
       url:
         "https://user-images.githubusercontent.com/3993655/50722899-28e93880-1111-11e9-8647-3761b59926a1.jpg"
@@ -390,8 +394,7 @@ const userCases = {
     },
     {
       name: "数字酋长客服",
-      url:
-        "https://user-images.githubusercontent.com/7202516/59986775-c0642880-966a-11e9-83d9-79f66087d1f2.jpg"
+      url: "https://user-images.githubusercontent.com/7202516/59986775-c0642880-966a-11e9-83d9-79f66087d1f2.jpg"
     },
     {
       name: "麦德龙到家",
@@ -400,6 +403,18 @@ const userCases = {
     {
       name: "天宝国际航服",
       url: "https://raw.githubusercontent.com/TigerHee/taro-init/master/src/assets/img/xcx.jpg"
+    },
+    { 
+      name: "弦弹格格",
+      url: "https://dev.tencent.com/u/bizbetter/p/appresource/git/raw/master/images/appimg/mychords/ads/qr_green.jpg"
+    },
+    {
+      name: "西安市最美退役军人评选",
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/vote.jpg"
+    },
+    {
+      name: "赫兹品牌全案服务",
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/hotel.jpg"
     }
   ],
   H5: [
@@ -459,10 +474,6 @@ const userCases = {
     {
       name: "京东好物街",
       url: "http://storage.jd.com/taro-resource/cases/haowujie.png"
-    },
-    {
-      name: "CSDN",
-      url: "http://ww1.sinaimg.cn/large/49320207gy1g0vdgu2mphj2046046t8i.jpg"
     },
     {
       name: "启信宝",
