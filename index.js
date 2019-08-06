@@ -398,6 +398,10 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/9426456/60314192-5a421300-9994-11e9-9448-a0806a975263.jpg"
     },
     {
+      name: "弦弹格格",
+      url: "https://dev.tencent.com/u/bizbetter/p/appresource/git/raw/master/images/appimg/mychords/ads/qr_green.jpg"
+    },
+    {
       name: "西安市最美退役军人评选",
       url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/vote.jpg"
     },
