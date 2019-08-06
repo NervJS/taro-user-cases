@@ -400,6 +400,14 @@ const userCases = {
     {
       name: "弦弹格格",
       url: "https://dev.tencent.com/u/bizbetter/p/appresource/git/raw/master/images/appimg/mychords/ads/qr_green.jpg"
+    },
+    {
+      name: "西安市最美退役军人评选",
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/vote.jpg"
+    },
+    {
+      name: "赫兹品牌全案服务",
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/hotel.jpg"
     }
   ],
   H5: [
