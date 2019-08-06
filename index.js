@@ -396,6 +396,14 @@ const userCases = {
     {
       name: "麦德龙到家",
       url: "https://user-images.githubusercontent.com/9426456/60314192-5a421300-9994-11e9-9448-a0806a975263.jpg"
+    },
+    {
+      name: "西安市最美退役军人评选",
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/vote.jpg"
+    },
+    {
+      name: "赫兹品牌全案服务",
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/hotel.jpg"
     }
   ],
   H5: [
