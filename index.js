@@ -186,7 +186,7 @@ const userCases = {
     },
     {
       name: "酒桌gameing",
-      url: "https://github.com/YTU94/taro-weapp/blob/master/static/QQ20190718-0.png"
+      url: "https://raw.githubusercontent.com/YTU94/taro-weapp/master/static/QQ20190718-0.png"
     },
     {
       name: "赛后",
@@ -415,6 +415,10 @@ const userCases = {
     {
       name: "赫兹品牌全案服务",
       url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/hotel.jpg"
+    },
+    {
+      name: '幻熊科技',
+      url: 'https://wfc-public.halobear.com/51be3dbab0af8ba044ea7444092737e2.jpg',
     }
   ],
   H5: [
