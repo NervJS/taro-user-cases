@@ -419,6 +419,10 @@ const userCases = {
     {
       name: '幻熊科技',
       url: 'https://wfc-public.halobear.com/51be3dbab0af8ba044ea7444092737e2.jpg',
+    },
+    {
+      name: '表情包自制大师',
+      url: 'https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/wechat.jpg',
     }
   ],
   H5: [
@@ -505,6 +509,13 @@ const userCases = {
       name: "仿网易严选",
       url:
         "https://qr.api.cli.im/qr?data=https%253A%252F%252Fsnack.expo.io%252F%2540caiminxing%252Ftaro-yanxuan&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=ad14cc9c74800daec783744be81d68d8"
+    }
+  ],
+  QQ小程序: [
+    {
+      name: "表情包大师",
+      url:
+        "https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/QQ.png"
     }
   ]
 };
