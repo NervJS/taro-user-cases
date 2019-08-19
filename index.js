@@ -1,6 +1,10 @@
 const userCases = {
   微信小程序: [
     {
+      name: "智科车联",
+      url: "http://itink.com.cn/assets/weapp/itink.jpg"
+    },
+    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
@@ -404,7 +408,7 @@ const userCases = {
       name: "天宝国际航服",
       url: "https://raw.githubusercontent.com/TigerHee/taro-init/master/src/assets/img/xcx.jpg"
     },
-    { 
+    {
       name: "弦弹格格",
       url: "https://dev.tencent.com/u/bizbetter/p/appresource/git/raw/master/images/appimg/mychords/ads/qr_green.jpg"
     },
