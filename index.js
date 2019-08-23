@@ -404,7 +404,7 @@ const userCases = {
       name: "天宝国际航服",
       url: "https://raw.githubusercontent.com/TigerHee/taro-init/master/src/assets/img/xcx.jpg"
     },
-    { 
+    {
       name: "弦弹格格",
       url: "https://dev.tencent.com/u/bizbetter/p/appresource/git/raw/master/images/appimg/mychords/ads/qr_green.jpg"
     },
@@ -419,6 +419,10 @@ const userCases = {
     {
       name: '幻熊科技',
       url: 'https://wfc-public.halobear.com/51be3dbab0af8ba044ea7444092737e2.jpg',
+    },
+    {
+      name: "智科车联",
+      url: "http://itink.com.cn/assets/weapp/itink.jpg"
     }
   ],
   H5: [
