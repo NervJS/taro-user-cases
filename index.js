@@ -423,6 +423,10 @@ const userCases = {
     {
       name: '表情包自制大师',
       url: 'https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/wechat.jpg',
+    },
+    {
+      name: 'Astron-航空航天知识学习平台',
+      url: 'https://raw.githubusercontent.com/jevonsofcode/Astron/master/gh_b94da3d8d44b_258.jpg',
     }
   ],
   H5: [
