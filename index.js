@@ -427,6 +427,10 @@ const userCases = {
     {
       name: 'Astron-航空航天知识学习平台',
       url: 'https://raw.githubusercontent.com/jevonsofcode/Astron/master/gh_b94da3d8d44b_258.jpg',
+    },
+    {
+      name: "智科车联",
+      url: "http://itink.com.cn/assets/weapp/itink.jpg"
     }
   ],
   H5: [
