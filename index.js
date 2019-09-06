@@ -421,6 +421,14 @@ const userCases = {
       url: 'https://wfc-public.halobear.com/51be3dbab0af8ba044ea7444092737e2.jpg',
     },
     {
+      name: '表情包自制大师',
+      url: 'https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/wechat.jpg',
+    },
+    {
+      name: 'Astron-航空航天知识学习平台',
+      url: 'https://raw.githubusercontent.com/jevonsofcode/Astron/master/gh_b94da3d8d44b_258.jpg',
+    },
+    {
       name: "智科车联",
       url: "http://itink.com.cn/assets/weapp/itink.jpg"
     }
@@ -509,6 +517,13 @@ const userCases = {
       name: "仿网易严选",
       url:
         "https://qr.api.cli.im/qr?data=https%253A%252F%252Fsnack.expo.io%252F%2540caiminxing%252Ftaro-yanxuan&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=ad14cc9c74800daec783744be81d68d8"
+    }
+  ],
+  QQ小程序: [
+    {
+      name: "表情包大师",
+      url:
+        "https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/QQ.png"
     }
   ]
 };
