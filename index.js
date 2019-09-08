@@ -1,6 +1,10 @@
 const userCases = {
   微信小程序: [
     {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/weixin_mp_qrcode.jpg"
+    },
+    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
@@ -435,6 +439,10 @@ const userCases = {
   ],
   H5: [
     {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/h5_web_qrcode.png"
+    },
+    {
       name: "作业部落",
       url:
         "https://user-images.githubusercontent.com/7202516/57504894-efc40d80-7328-11e9-9414-518c5b20e301.png"
@@ -488,6 +496,10 @@ const userCases = {
   ],
   百度智能小程序: [
     {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/swan_mp_qrcode.jpg"
+    },
+    {
       name: "京东好物街",
       url: "http://storage.jd.com/taro-resource/cases/haowujie.png"
     },
@@ -514,6 +526,10 @@ const userCases = {
   ],
   移动端应用: [
     {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/ios_app_qrcode.jpg"
+    },
+    {
       name: "仿网易严选",
       url:
         "https://qr.api.cli.im/qr?data=https%253A%252F%252Fsnack.expo.io%252F%2540caiminxing%252Ftaro-yanxuan&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=ad14cc9c74800daec783744be81d68d8"
@@ -521,9 +537,19 @@ const userCases = {
   ],
   QQ小程序: [
     {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/qq_mp_qrcode.jpg"
+    },
+    {
       name: "表情包大师",
       url:
         "https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/QQ.png"
+    }
+  ],
+    字节跳动小程序: [
+    {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/tt_mp_qrcode.jpg"
     }
   ]
 };
