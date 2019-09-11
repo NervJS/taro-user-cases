@@ -37,6 +37,10 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/image16.jpeg"
     },
     {
+      name: "豆芽名片",
+      url: "https://user-images.githubusercontent.com/16730031/64512839-d0aaac00-d319-11e9-94fb-7d10b9bc2b22.jpg"
+    },
+    {
       name: "吐个槽社区",
       url: "http://storage.jd.com/taro-resource/cases/image3.png"
     },
