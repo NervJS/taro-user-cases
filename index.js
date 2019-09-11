@@ -1,10 +1,6 @@
 const userCases = {
   微信小程序: [
     {
-      name: '幻熊科技',
-      url: 'https://wfc-public.halobear.com/51be3dbab0af8ba044ea7444092737e2.jpg',
-    },
-    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
@@ -400,7 +396,11 @@ const userCases = {
     {
       name: "麦德龙到家",
       url: "https://user-images.githubusercontent.com/9426456/60314192-5a421300-9994-11e9-9448-a0806a975263.jpg"
-    }
+    },
+    {
+      name: '幻熊科技',
+      url: 'https://user-images.githubusercontent.com/7202516/64671021-b7c90480-d499-11e9-83af-007a428d57ca.jpg',
+    },
   ],
   H5: [
     {
