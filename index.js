@@ -1,10 +1,6 @@
 const userCases = {
   微信小程序: [
     {
-      name: "袋小鼠爱编程",
-      url: "https://www.tdreamer.com/images/codekidtop/weixin_mp_qrcode.jpg"
-    },
-    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
@@ -435,6 +431,10 @@ const userCases = {
     {
       name: "智科车联",
       url: "http://itink.com.cn/assets/weapp/itink.jpg"
+    },
+    {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/weixin_mp_qrcode.jpg"
     }
   ],
   H5: [
@@ -496,10 +496,6 @@ const userCases = {
   ],
   百度智能小程序: [
     {
-      name: "袋小鼠爱编程",
-      url: "https://www.tdreamer.com/images/codekidtop/swan_mp_qrcode.jpg"
-    },
-    {
       name: "京东好物街",
       url: "http://storage.jd.com/taro-resource/cases/haowujie.png"
     },
@@ -522,7 +518,11 @@ const userCases = {
       name: "柠檬爱美",
       url:
         "https://user-images.githubusercontent.com/7202516/57913062-60859f80-78be-11e9-9eeb-4543d17f5218.png"
-    }
+    },
+    {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/swan_mp_qrcode.jpg"
+    },
   ],
   移动端应用: [
     {
