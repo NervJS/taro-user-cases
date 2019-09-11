@@ -435,9 +435,17 @@ const userCases = {
     {
       name: "智科车联",
       url: "http://itink.com.cn/assets/weapp/itink.jpg"
+    },
+    {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/weixin_mp_qrcode.jpg"
     }
   ],
   H5: [
+    {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/h5_web_qrcode.png"
+    },
     {
       name: "作业部落",
       url:
@@ -514,9 +522,17 @@ const userCases = {
       name: "柠檬爱美",
       url:
         "https://user-images.githubusercontent.com/7202516/57913062-60859f80-78be-11e9-9eeb-4543d17f5218.png"
-    }
+    },
+    {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/swan_mp_qrcode.jpg"
+    },
   ],
   移动端应用: [
+    {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/ios_app_qrcode.jpg"
+    },
     {
       name: "仿网易严选",
       url:
@@ -525,9 +541,19 @@ const userCases = {
   ],
   QQ小程序: [
     {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/qq_mp_qrcode.jpg"
+    },
+    {
       name: "表情包大师",
       url:
         "https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/QQ.png"
+    }
+  ],
+    字节跳动小程序: [
+    {
+      name: "袋小鼠爱编程",
+      url: "https://www.tdreamer.com/images/codekidtop/tt_mp_qrcode.jpg"
     }
   ]
 };
