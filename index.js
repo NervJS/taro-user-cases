@@ -422,7 +422,7 @@ const userCases = {
     },
     {
       name: '幻熊科技',
-      url: 'https://wfc-public.halobear.com/51be3dbab0af8ba044ea7444092737e2.jpg',
+      url: 'https://user-images.githubusercontent.com/7202516/64671021-b7c90480-d499-11e9-83af-007a428d57ca.jpg',
     },
     {
       name: '表情包自制大师',
