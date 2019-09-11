@@ -413,11 +413,11 @@ const userCases = {
       url: "https://dev.tencent.com/u/bizbetter/p/appresource/git/raw/master/images/appimg/mychords/ads/qr_green.jpg"
     },
     {
-      name: "西安市最美退役军人评选",
+      name: "最美退役军人",
       url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/vote.jpg"
     },
     {
-      name: "赫兹品牌全案服务",
+      name: "赫兹品牌服务",
       url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/hotel.jpg"
     },
     {
@@ -429,7 +429,7 @@ const userCases = {
       url: 'https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/wechat.jpg',
     },
     {
-      name: 'Astron-航空航天知识学习平台',
+      name: 'Astron',
       url: 'https://raw.githubusercontent.com/jevonsofcode/Astron/master/gh_b94da3d8d44b_258.jpg',
     },
     {
