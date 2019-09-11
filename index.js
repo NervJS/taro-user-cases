@@ -37,6 +37,10 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/image16.jpeg"
     },
     {
+      name: "豆芽名片",
+      url: "https://user-images.githubusercontent.com/16730031/64512839-d0aaac00-d319-11e9-94fb-7d10b9bc2b22.jpg"
+    },
+    {
       name: "吐个槽社区",
       url: "http://storage.jd.com/taro-resource/cases/image3.png"
     },
@@ -183,6 +187,10 @@ const userCases = {
     {
       name: "戒烟助理",
       url: "https://github.com/hugetiny/quit-smoking/raw/master/weappcode.jpg"
+    },
+    {
+      name: "酒桌gameing",
+      url: "https://raw.githubusercontent.com/YTU94/taro-weapp/master/static/QQ20190718-0.png"
     },
     {
       name: "赛后",
@@ -390,17 +398,44 @@ const userCases = {
     },
     {
       name: "数字酋长客服",
-      url:
-        "https://user-images.githubusercontent.com/7202516/59986775-c0642880-966a-11e9-83d9-79f66087d1f2.jpg"
+      url: "https://user-images.githubusercontent.com/7202516/59986775-c0642880-966a-11e9-83d9-79f66087d1f2.jpg"
     },
     {
       name: "麦德龙到家",
       url: "https://user-images.githubusercontent.com/9426456/60314192-5a421300-9994-11e9-9448-a0806a975263.jpg"
     },
     {
+      name: "天宝国际航服",
+      url: "https://raw.githubusercontent.com/TigerHee/taro-init/master/src/assets/img/xcx.jpg"
+    },
+    { 
+      name: "弦弹格格",
+      url: "https://dev.tencent.com/u/bizbetter/p/appresource/git/raw/master/images/appimg/mychords/ads/qr_green.jpg"
+    },
+    {
+      name: "西安市最美退役军人评选",
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/vote.jpg"
+    },
+    {
+      name: "赫兹品牌全案服务",
+      url: "https://cache-1256738511.cos.ap-chengdu.myqcloud.com/images/hotel.jpg"
+    },
+    {
       name: '幻熊科技',
       url: 'https://user-images.githubusercontent.com/7202516/64671021-b7c90480-d499-11e9-83af-007a428d57ca.jpg',
     },
+    {
+      name: '表情包自制大师',
+      url: 'https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/wechat.jpg',
+    },
+    {
+      name: 'Astron-航空航天知识学习平台',
+      url: 'https://raw.githubusercontent.com/jevonsofcode/Astron/master/gh_b94da3d8d44b_258.jpg',
+    },
+    {
+      name: "智科车联",
+      url: "http://itink.com.cn/assets/weapp/itink.jpg"
+    }
   ],
   H5: [
     {
@@ -461,10 +496,6 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/haowujie.png"
     },
     {
-      name: "CSDN",
-      url: "http://ww1.sinaimg.cn/large/49320207gy1g0vdgu2mphj2046046t8i.jpg"
-    },
-    {
       name: "启信宝",
       url:
         "https://user-images.githubusercontent.com/38108442/54411078-fcf9bd00-4728-11e9-9e4d-c61f6ff43f86.png"
@@ -490,6 +521,13 @@ const userCases = {
       name: "仿网易严选",
       url:
         "https://qr.api.cli.im/qr?data=https%253A%252F%252Fsnack.expo.io%252F%2540caiminxing%252Ftaro-yanxuan&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=ad14cc9c74800daec783744be81d68d8"
+    }
+  ],
+  QQ小程序: [
+    {
+      name: "表情包大师",
+      url:
+        "https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/QQ.png"
     }
   ]
 };
