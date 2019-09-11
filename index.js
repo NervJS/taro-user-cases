@@ -439,6 +439,10 @@ const userCases = {
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/weixin_mp_qrcode.jpg"
+    },
+	{
+      name: "睿推客",
+      url: "https://wx.ryuntech.com/upload/20190911184122.jpg"
     }
   ],
   H5: [
