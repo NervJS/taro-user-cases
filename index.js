@@ -439,6 +439,10 @@ const userCases = {
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/weixin_mp_qrcode.jpg"
+    },
+    {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB1RoXxixD1gK0jSZFyXXciOVXa-430-430.png"
     }
   ],
   H5: [
@@ -527,6 +531,10 @@ const userCases = {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/swan_mp_qrcode.jpg"
     },
+    {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB19p4xiBr0gK0jSZFnXXbRRXXa-150-150.png"
+    }
   ],
   移动端应用: [
     {
@@ -554,6 +562,10 @@ const userCases = {
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/tt_mp_qrcode.jpg"
+    },
+    {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB1qxXripY7gK0jSZKzXXaikpXa-150-150.png"
     }
   ]
 };
