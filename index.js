@@ -537,7 +537,11 @@ const userCases = {
       name: "仿网易严选",
       url:
         "https://qr.api.cli.im/qr?data=https%253A%252F%252Fsnack.expo.io%252F%2540caiminxing%252Ftaro-yanxuan&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=ad14cc9c74800daec783744be81d68d8"
-    }
+    },
+    {
+      name: "Taro-demo",
+      url: "https://github.com/bozaigao/Taro-demo/raw/master/img/taro_2.jpeg"
+    },
   ],
   QQ小程序: [
     {
