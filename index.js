@@ -447,7 +447,7 @@ const userCases = {
     {
       name: "古典音乐品鉴",
       url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/weapp.jpg"
-    {,
+    },
     {
       name: "睿推客",
       url: "https://wx.ryuntech.com/upload/20190911184122.jpg"
