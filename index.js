@@ -412,7 +412,7 @@ const userCases = {
       name: "天宝国际航服",
       url: "https://raw.githubusercontent.com/TigerHee/taro-init/master/src/assets/img/xcx.jpg"
     },
-    { 
+    {
       name: "弦弹格格",
       url: "https://dev.tencent.com/u/bizbetter/p/appresource/git/raw/master/images/appimg/mychords/ads/qr_green.jpg"
     },
@@ -444,6 +444,10 @@ const userCases = {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/weixin_mp_qrcode.jpg"
     },
+    {
+      name: "古典音乐品鉴",
+      url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/weapp.jpg"
+    {,
     {
       name: "睿推客",
       url: "https://wx.ryuntech.com/upload/20190911184122.jpg"
@@ -509,6 +513,11 @@ const userCases = {
       name: "爱享到",
       url:
         "https://user-images.githubusercontent.com/14814560/52850049-84193c80-314d-11e9-8048-e4b48edeadf1.png"
+    },
+    {
+      name: "趣叨叨古典音乐",
+      url:
+        "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/alipay.jpg"
     }
   ],
   百度智能小程序: [
@@ -543,6 +552,10 @@ const userCases = {
     {
       name: "淘票票",
       url: "https://img.alicdn.com/tfs/TB19p4xiBr0gK0jSZFnXXbRRXXa-150-150.png"
+    },
+    {
+      name: "趣叨叨古典音乐",
+      url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/swan.png"
     }
   ],
   移动端应用: [
@@ -565,6 +578,11 @@ const userCases = {
       name: "表情包大师",
       url:
         "https://blog-1254147258.cos.ap-guangzhou.myqcloud.com/ercode/QQ.png"
+    },
+    {
+      name: "古典音乐品鉴",
+      url:
+        "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/qq.png"
     }
   ],
     字节跳动小程序: [
@@ -575,6 +593,10 @@ const userCases = {
     {
       name: "淘票票",
       url: "https://img.alicdn.com/tfs/TB1qxXripY7gK0jSZKzXXaikpXa-150-150.png"
+    },
+    {
+      name: "古典音乐品鉴",
+      url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/tt.jpg"
     }
   ]
 };
