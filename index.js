@@ -37,6 +37,10 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/image16.jpeg"
     },
     {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB1RoXxixD1gK0jSZFyXXciOVXa-430-430.png"
+    {,
+    {
       name: "豆芽名片",
       url: "https://user-images.githubusercontent.com/16730031/64512839-d0aaac00-d319-11e9-94fb-7d10b9bc2b22.jpg"
     },
@@ -546,6 +550,10 @@ const userCases = {
       url: "https://www.tdreamer.com/images/codekidtop/swan_mp_qrcode.jpg"
     },
     {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB19p4xiBr0gK0jSZFnXXbRRXXa-150-150.png"
+    },
+    {
       name: "趣叨叨古典音乐",
       url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/swan.png"
     }
@@ -581,6 +589,10 @@ const userCases = {
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/tt_mp_qrcode.jpg"
+    },
+    {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB1qxXripY7gK0jSZKzXXaikpXa-150-150.png"
     },
     {
       name: "古典音乐品鉴",
