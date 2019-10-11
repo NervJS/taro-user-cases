@@ -434,7 +434,7 @@ const userCases = {
     },
     {
       name: 'Astron',
-      url: 'https://raw.githubusercontent.com/jevonsofcode/Astron/master/gh_b94da3d8d44b_258.jpg',
+      url: 'https://github.com/jevonsofcode/Astron/raw/master/READMESOURCE/qrcode.jpg',
     },
     {
       name: "智科车联",
