@@ -443,6 +443,10 @@ const userCases = {
     {
       name: "古典音乐品鉴",
       url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/weapp.jpg"
+    {,
+    {
+      name: "睿推客",
+      url: "https://wx.ryuntech.com/upload/20190911184122.jpg"
     }
   ],
   H5: [
@@ -488,6 +492,11 @@ const userCases = {
       name: "学伴",
       url:
         "https://user-images.githubusercontent.com/7202516/58466807-06fa5c00-816d-11e9-81ec-9be385d8a4d1.png"
+    },
+    {
+      name: "每日好心情",
+      url:
+        "https://user-images.githubusercontent.com/7972688/64514458-3cdadf00-d31d-11e9-8494-4262c6d4d565.jpg"
     }
   ],
   支付宝小程序: [
