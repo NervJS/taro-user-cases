@@ -37,6 +37,10 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/image16.jpeg"
     },
     {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB1RoXxixD1gK0jSZFyXXciOVXa-430-430.png"
+    {,
+    {
       name: "豆芽名片",
       url: "https://user-images.githubusercontent.com/16730031/64512839-d0aaac00-d319-11e9-94fb-7d10b9bc2b22.jpg"
     },
@@ -441,8 +445,8 @@ const userCases = {
       url: "https://www.tdreamer.com/images/codekidtop/weixin_mp_qrcode.jpg"
     },
     {
-      name: "淘票票",
-      url: "https://img.alicdn.com/tfs/TB1RoXxixD1gK0jSZFyXXciOVXa-430-430.png"
+      name: "睿推客",
+      url: "https://wx.ryuntech.com/upload/20190911184122.jpg"
     }
   ],
   H5: [
@@ -488,6 +492,11 @@ const userCases = {
       name: "学伴",
       url:
         "https://user-images.githubusercontent.com/7202516/58466807-06fa5c00-816d-11e9-81ec-9be385d8a4d1.png"
+    },
+    {
+      name: "每日好心情",
+      url:
+        "https://user-images.githubusercontent.com/7972688/64514458-3cdadf00-d31d-11e9-8494-4262c6d4d565.jpg"
     }
   ],
   支付宝小程序: [
