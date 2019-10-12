@@ -451,6 +451,13 @@ const userCases = {
     {
       name: "睿推客",
       url: "https://wx.ryuntech.com/upload/20190911184122.jpg"
+    },
+    {
+      name: "四六级管家",
+      url: "http://gxjs.online/mp/cet/img/wx_qrcode.jpg"
+    },{
+      name: "剃头推子",
+      url: "http://gxjs.online/mp/razor/img/wx_qrcode.jpg"
     }
   ],
   H5: [
@@ -583,6 +590,14 @@ const userCases = {
       name: "古典音乐品鉴",
       url:
         "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/qq.png"
+    },
+    {
+      name: "四六级管家",
+      url: "http://gxjs.online/mp/cet/img/qq_qrcode.png"
+    },
+    {
+      name: "剃头推子",
+      url: "http://gxjs.online/mp/razor/img/qq_qrcode.png"
     }
   ],
     字节跳动小程序: [
