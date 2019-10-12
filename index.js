@@ -454,10 +454,10 @@ const userCases = {
     },
     {
       name: "四六级管家",
-      url: "http://gxjs.online/mp/cet/img/wx_qrcode.jpg"
+      url: "https://user-images.githubusercontent.com/7202516/66696220-965b7280-ecfc-11e9-8b09-171dd4700c5a.jpg"
     },{
       name: "剃头推子",
-      url: "http://gxjs.online/mp/razor/img/wx_qrcode.jpg"
+      url: "https://user-images.githubusercontent.com/7202516/66696219-965b7280-ecfc-11e9-9f4e-dc312afbe7ab.jpg"
     }
   ],
   H5: [
@@ -593,11 +593,11 @@ const userCases = {
     },
     {
       name: "四六级管家",
-      url: "http://gxjs.online/mp/cet/img/qq_qrcode.png"
+      url: "https://user-images.githubusercontent.com/7202516/66696217-95c2dc00-ecfc-11e9-99cd-ae06ad08654e.png"
     },
     {
       name: "剃头推子",
-      url: "http://gxjs.online/mp/razor/img/qq_qrcode.png"
+      url: "https://user-images.githubusercontent.com/7202516/66696218-95c2dc00-ecfc-11e9-98a6-dad868590c79.png"
     }
   ],
     字节跳动小程序: [
