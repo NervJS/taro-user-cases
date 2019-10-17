@@ -617,7 +617,7 @@ function renderCases(cases) {
   return Object.keys(cases)
     .map(key => {
       return `
-      <h2>${key}</h2>
+      <h2 id=${key}>${key}</h2>
       <table
         border="0"
         cellpadding="0"

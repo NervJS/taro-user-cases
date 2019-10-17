@@ -1,9 +1,32 @@
 body {
   font-family: "PingFang SC", 'Noto Sans SC', 'Noto Sans CJK SC', 'Noto Sans CJK', 'Source Han Sans', source-han-sans-simplified-c, sans-serif;
 }
-
+body .index {
+  overflow: unset;
+} 
 #app {
-  width: 900px; 
+  width: 1000px; 
+}
+.index .appwrap {
+  margin: 0 auto;
+}
+.app_app_wrap {
+  height: 35px;
+  border-bottom: 1px solid #0000C2;
+  position: sticky;
+  top: 0px;
+  left: 100px;
+  background: #fff;
+}
+.app_nav {
+  height: 35px;
+  line-height: 35px;
+}
+.app_nav a {
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 18px;
+  color: #000;
 }
 
 table {
@@ -11,6 +34,8 @@ table {
 }
 
 h2 {
+  padding-top: 50px;
+  padding-bottom: 20px;
   margin-left: 15px;
   font-weight: 300;
 }
@@ -25,4 +50,9 @@ p {
 
 .hidden {
   visibility: hidden;
+}
+
+.index div.header {
+  position: relative;
+  background: #0000C2 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…kiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+) top no-repeat;
 }
