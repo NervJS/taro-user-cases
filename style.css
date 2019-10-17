@@ -43,11 +43,12 @@ h2 {
 }
 
 p {
-  font-size: 12px;
-  line-height: 0.8;
-  color: #777;
+  font-size: 14px;
+  line-height: 1;
+  color: #000;
   font-weight: 300;
   margin-bottom: 20px;
+  margin-top: 5px;
 }
 
 .hidden {
