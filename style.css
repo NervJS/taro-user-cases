@@ -5,21 +5,19 @@ body .index {
   overflow: unset;
 } 
 #app {
-  width: 1000px; 
+  width: 1000px;
+  padding-bottom: 50px;
 }
 .index .appwrap {
   margin: 0 auto;
 }
-.app_app_wrap {
+.app_nav {
   height: 35px;
   border-bottom: 1px solid #0000C2;
   position: sticky;
   top: 0px;
   left: 100px;
   background: #fff;
-}
-.app_nav {
-  height: 35px;
   line-height: 35px;
 }
 .app_nav a {
@@ -27,6 +25,10 @@ body .index {
   padding: 0 10px;
   font-size: 18px;
   color: #000;
+}
+
+.app_nav a span {
+  padding-left: 5px;
 }
 
 table {
@@ -54,5 +56,6 @@ p {
 
 .index div.header {
   position: relative;
+  margin-bottom: 15px;
   background: #0000C2 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…kiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+) top no-repeat;
 }

@@ -642,7 +642,12 @@ function chunkArray(ary) {
 }
 
 function renderCases(cases) {
-  return Object.keys(cases)
+  var navhtml = Object.keys(cases).map(key => {
+    return `<a href='#${key}'>${key}<span>(${cases[key].length})</span></a>`
+  }).join('')
+  navhtml = `<div class='grid_c1 app_nav'>${navhtml}</div>`
+
+  var casehtml =  Object.keys(cases)
     .map(key => {
       return `
       <h2 id=${key}>${key}</h2>
@@ -658,6 +663,7 @@ function renderCases(cases) {
     `;
     })
     .join("");
+  return navhtml + casehtml
 }
 
 function renderTr(arr) {
