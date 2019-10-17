@@ -9,14 +9,6 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/TOPLIFE.png"
     },
     {
-      name: "AI导诊",
-      url: "https://s.beta.gtimg.com/hospital_img/plus-lib/registration-guide/assets/pic/guide-icon.jpg"
-    },
-    {
-      name: "AI预诊",
-      url: "https://s.beta.gtimg.com/hospital_img/plus-lib/registration-guide/assets/pic/pre-icon.jpg"
-    },
-    {
       name: "7FRESH",
       url: "http://storage.jd.com/taro-resource/cases/image20.jpeg"
     },
@@ -463,12 +455,22 @@ const userCases = {
     {
       name: "四六级管家",
       url: "https://user-images.githubusercontent.com/7202516/66696220-965b7280-ecfc-11e9-8b09-171dd4700c5a.jpg"
-    },{
+    },
+    {
       name: "剃头推子",
       url: "https://user-images.githubusercontent.com/7202516/66696219-965b7280-ecfc-11e9-9f4e-dc312afbe7ab.jpg"
-    },{
+    },
+    {
       name: "军运小助手",
       url: "https://user-images.githubusercontent.com/9426456/66698390-45ee1000-ed10-11e9-826e-310cf96f7ed8.jpg"
+    },
+    {
+      name: "AI导诊",
+      url: "https://user-images.githubusercontent.com/3080820/66974069-8fea4380-f0cc-11e9-8a7b-e95a5b7c34d4.png"
+    },
+    {
+      name: "AI预诊",
+      url: "https://user-images.githubusercontent.com/3080820/66974120-bb6d2e00-f0cc-11e9-8e9c-113ab77d94a8.png"
     }
   ],
   H5: [
