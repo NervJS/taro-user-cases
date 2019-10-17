@@ -451,6 +451,26 @@ const userCases = {
     {
       name: "睿推客",
       url: "https://wx.ryuntech.com/upload/20190911184122.jpg"
+    },
+    {
+      name: "四六级管家",
+      url: "https://user-images.githubusercontent.com/7202516/66696220-965b7280-ecfc-11e9-8b09-171dd4700c5a.jpg"
+    },
+    {
+      name: "剃头推子",
+      url: "https://user-images.githubusercontent.com/7202516/66696219-965b7280-ecfc-11e9-9f4e-dc312afbe7ab.jpg"
+    },
+    {
+      name: "军运小助手",
+      url: "https://user-images.githubusercontent.com/9426456/66698390-45ee1000-ed10-11e9-826e-310cf96f7ed8.jpg"
+    },
+    {
+      name: "AI导诊",
+      url: "https://user-images.githubusercontent.com/3080820/66974069-8fea4380-f0cc-11e9-8a7b-e95a5b7c34d4.png"
+    },
+    {
+      name: "AI预诊",
+      url: "https://user-images.githubusercontent.com/3080820/66974120-bb6d2e00-f0cc-11e9-8e9c-113ab77d94a8.png"
     }
   ],
   H5: [
@@ -583,6 +603,14 @@ const userCases = {
       name: "古典音乐品鉴",
       url:
         "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/qq.png"
+    },
+    {
+      name: "四六级管家",
+      url: "https://user-images.githubusercontent.com/7202516/66696217-95c2dc00-ecfc-11e9-99cd-ae06ad08654e.png"
+    },
+    {
+      name: "剃头推子",
+      url: "https://user-images.githubusercontent.com/7202516/66696218-95c2dc00-ecfc-11e9-98a6-dad868590c79.png"
     }
   ],
     字节跳动小程序: [
