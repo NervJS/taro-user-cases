@@ -9,6 +9,14 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/TOPLIFE.png"
     },
     {
+      name: "AI导诊",
+      url: "https://s.beta.gtimg.com/hospital_img/plus-lib/registration-guide/assets/pic/guide-icon.jpg"
+    },
+    {
+      name: "AI预诊",
+      url: "https://s.beta.gtimg.com/hospital_img/plus-lib/registration-guide/assets/pic/pre-icon.jpg"
+    },
+    {
       name: "7FRESH",
       url: "http://storage.jd.com/taro-resource/cases/image20.jpeg"
     },
