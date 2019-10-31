@@ -461,6 +461,10 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/7202516/66696219-965b7280-ecfc-11e9-9f4e-dc312afbe7ab.jpg"
     },
     {
+      name: "给我去水印",
+      url: "http://gxjs.online/mp/videoWaterMaker/img/wx_qrcode.jpg"
+    },
+    {
       name: "军运小助手",
       url: "https://user-images.githubusercontent.com/9426456/66698390-45ee1000-ed10-11e9-826e-310cf96f7ed8.jpg"
     },
@@ -611,6 +615,10 @@ const userCases = {
     {
       name: "剃头推子",
       url: "https://user-images.githubusercontent.com/7202516/66696218-95c2dc00-ecfc-11e9-98a6-dad868590c79.png"
+    },
+    {
+      name: "给我去水印",
+      url: "http://gxjs.online/mp/videoWaterMaker/img/qq_qrcode.png"
     }
   ],
     字节跳动小程序: [
