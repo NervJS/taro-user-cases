@@ -462,7 +462,7 @@ const userCases = {
     },
     {
       name: "给我去水印",
-      url: "http://gxjs.online/mp/videoWaterMaker/img/wx_qrcode.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/68095428-83475700-fee4-11e9-80f5-f985d516baaf.jpg"
     },
     {
       name: "军运小助手",
@@ -618,7 +618,7 @@ const userCases = {
     },
     {
       name: "给我去水印",
-      url: "http://gxjs.online/mp/videoWaterMaker/img/qq_qrcode.png"
+      url: "https://user-images.githubusercontent.com/3080820/68095430-86424780-fee4-11e9-8882-95f7a3f45dee.png"
     }
   ],
     字节跳动小程序: [
