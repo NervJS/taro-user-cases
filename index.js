@@ -475,6 +475,10 @@ const userCases = {
     {
       name: "AI预诊",
       url: "https://user-images.githubusercontent.com/3080820/66974120-bb6d2e00-f0cc-11e9-8e9c-113ab77d94a8.png"
+    },
+    {
+      name: "郑州长途客运",
+      url: "https://user-images.githubusercontent.com/23094123/68311776-02a77700-00ed-11ea-805c-5927e944abe3.JPG"
     }
   ],
   H5: [
