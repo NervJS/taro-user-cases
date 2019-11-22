@@ -483,6 +483,10 @@ const userCases = {
     {
       name: "龙湖冠寓租房",
       url: "https://user-images.githubusercontent.com/3080820/68370238-fd8f0a00-0176-11ea-8a2b-32bea244bc35.jpg"
+    },
+    {
+      name: "甩甩宝宝",
+      url: "https://camo.githubusercontent.com/8f0cec6cae8b210c496239f731f0598d0afd5390/68747470733a2f2f77782e73716d69616f3030312e636f6d2f6173737365742f7a7567616e672f62616f62616f2f636f64655f68352e6a7067"
     }
   ],
   H5: [
