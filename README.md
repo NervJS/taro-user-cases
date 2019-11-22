@@ -11,3 +11,5 @@ url: 二维码图片地址
 
 修改完毕提交会提交 PR。当本仓库有 push 事件发生时会自动更新[图片](./user-cases.jpg)。
 
+![taro案例](./user-cases.jpg?raw=true)
+
