@@ -554,6 +554,10 @@ const userCases = {
       name: "趣叨叨古典音乐",
       url:
         "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/alipay.jpg"
+    },
+    {
+      name: "货拉拉",
+      url: "https://raw.githubusercontent.com/Andrewuetyang/pics/master/hll_alipay_mp.png"
     }
   ],
   百度智能小程序: [
