@@ -649,6 +649,10 @@ const userCases = {
     {
       name: "古典音乐品鉴",
       url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/tt.jpg"
+    },
+    {
+      name: "微赛通",
+      url: "https://king2019.oss-cn-shanghai.aliyuncs.com/qr-code/gh_20f121ad7c9c_430.jpg"
     }
   ]
 };
