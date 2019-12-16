@@ -491,6 +491,10 @@ const userCases = {
     {
       name: "微赛通",
       url: "https://user-images.githubusercontent.com/3080820/69857235-742cac80-12ca-11ea-8f66-dadbc06f2ec7.jpg"
+    },
+    {
+      name: "美餐",
+      url: "https://camo.githubusercontent.com/aa8cd4985a4d2d73692c42ffc40bc1276a50805a/68747470733a2f2f7777772e6d656963616e7374617469632e636f6d2f7374612f66652f6d656963616e2d6170702f6d656963616e2d6d702f696d616765732f6d70636f64652e6a7067"
     }
   ],
   H5: [
