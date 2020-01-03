@@ -443,10 +443,14 @@ const userCases = {
     {
       name: "古典音乐品鉴",
       url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/weapp.jpg"
-    {,
+    },
     {
       name: "睿推客",
       url: "https://wx.ryuntech.com/upload/20190911184122.jpg"
+    },
+    {
+      name: "画线九宫格",
+      url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/draw9/weapp.jpg"
     }
   ],
   H5: [
@@ -548,6 +552,10 @@ const userCases = {
     {
       name: "趣叨叨古典音乐",
       url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/swan.png"
+    },
+    {
+      name: "画线九宫格",
+      url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/draw9/swan.png"
     }
   ],
   移动端应用: [
@@ -575,6 +583,11 @@ const userCases = {
       name: "古典音乐品鉴",
       url:
         "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/qq.png"
+    },
+    {
+      name: "画线九宫格",
+      url:
+        "https://raw.githubusercontent.com/zhouran19880120/ad/master/draw9/qq.png"
     }
   ],
     字节跳动小程序: [
