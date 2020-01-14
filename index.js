@@ -495,6 +495,10 @@ const userCases = {
     {
       name: "美餐",
       url: "https://camo.githubusercontent.com/aa8cd4985a4d2d73692c42ffc40bc1276a50805a/68747470733a2f2f7777772e6d656963616e7374617469632e636f6d2f7374612f66652f6d656963616e2d6170702f6d656963616e2d6d702f696d616765732f6d70636f64652e6a7067"
+    },
+    {
+      name: "画线九宫格",
+      url: "https://user-images.githubusercontent.com/3080820/72341163-8a6cbb80-3704-11ea-89ea-ac3749825ad0.jpg"
     }
   ],
   H5: [
@@ -604,6 +608,10 @@ const userCases = {
     {
       name: "趣叨叨古典音乐",
       url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/swan.png"
+    },
+    {
+      name: "画线九宫格",
+      url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/draw9/swan.png"
     }
   ],
   移动端应用: [
@@ -643,6 +651,10 @@ const userCases = {
     {
       name: "给我去水印",
       url: "https://user-images.githubusercontent.com/3080820/68095430-86424780-fee4-11e9-8882-95f7a3f45dee.png"
+    },
+    {
+      name: "画线九宫格",
+      url: "https://user-images.githubusercontent.com/3080820/72341326-e5061780-3704-11ea-8434-8a9ff0e01399.png"
     }
   ],
     字节跳动小程序: [
