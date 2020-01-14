@@ -37,6 +37,10 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/image16.jpeg"
     },
     {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB1RoXxixD1gK0jSZFyXXciOVXa-430-430.png"
+    },
+    {
       name: "豆芽名片",
       url: "https://user-images.githubusercontent.com/16730031/64512839-d0aaac00-d319-11e9-94fb-7d10b9bc2b22.jpg"
     },
@@ -430,7 +434,7 @@ const userCases = {
     },
     {
       name: 'Astron',
-      url: 'https://raw.githubusercontent.com/jevonsofcode/Astron/master/gh_b94da3d8d44b_258.jpg',
+      url: 'https://github.com/jevonsofcode/Astron/raw/master/READMESOURCE/qrcode.jpg',
     },
     {
       name: "智科车联",
@@ -449,8 +453,52 @@ const userCases = {
       url: "https://wx.ryuntech.com/upload/20190911184122.jpg"
     },
     {
+      name: "四六级管家",
+      url: "https://user-images.githubusercontent.com/7202516/66696220-965b7280-ecfc-11e9-8b09-171dd4700c5a.jpg"
+    },
+    {
+      name: "剃头推子",
+      url: "https://user-images.githubusercontent.com/7202516/66696219-965b7280-ecfc-11e9-9f4e-dc312afbe7ab.jpg"
+    },
+    {
+      name: "给我去水印",
+      url: "https://user-images.githubusercontent.com/3080820/68095428-83475700-fee4-11e9-80f5-f985d516baaf.jpg"
+    },
+    {
+      name: "军运小助手",
+      url: "https://user-images.githubusercontent.com/9426456/66698390-45ee1000-ed10-11e9-826e-310cf96f7ed8.jpg"
+    },
+    {
+      name: "AI导诊",
+      url: "https://user-images.githubusercontent.com/3080820/66974069-8fea4380-f0cc-11e9-8a7b-e95a5b7c34d4.png"
+    },
+    {
+      name: "AI预诊",
+      url: "https://user-images.githubusercontent.com/3080820/66974120-bb6d2e00-f0cc-11e9-8e9c-113ab77d94a8.png"
+    },
+    {
+      name: "郑州长途客运",
+      url: "https://user-images.githubusercontent.com/23094123/68311776-02a77700-00ed-11ea-805c-5927e944abe3.JPG"
+    },
+    {
+      name: "龙湖冠寓租房",
+      url: "https://user-images.githubusercontent.com/3080820/68370238-fd8f0a00-0176-11ea-8a2b-32bea244bc35.jpg"
+    },
+    {
+      name: "甩甩宝宝",
+      url: "https://camo.githubusercontent.com/8f0cec6cae8b210c496239f731f0598d0afd5390/68747470733a2f2f77782e73716d69616f3030312e636f6d2f6173737365742f7a7567616e672f62616f62616f2f636f64655f68352e6a7067"
+    },
+    {
+      name: "微赛通",
+      url: "https://user-images.githubusercontent.com/3080820/69857235-742cac80-12ca-11ea-8f66-dadbc06f2ec7.jpg"
+    },
+    {
+      name: "美餐",
+      url: "https://camo.githubusercontent.com/aa8cd4985a4d2d73692c42ffc40bc1276a50805a/68747470733a2f2f7777772e6d656963616e7374617469632e636f6d2f7374612f66652f6d656963616e2d6170702f6d656963616e2d6d702f696d616765732f6d70636f64652e6a7067"
+    },
+    {
       name: "画线九宫格",
-      url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/draw9/weapp.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/72341163-8a6cbb80-3704-11ea-89ea-ac3749825ad0.jpg"
     }
   ],
   H5: [
@@ -518,6 +566,10 @@ const userCases = {
       name: "趣叨叨古典音乐",
       url:
         "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/alipay.jpg"
+    },
+    {
+      name: "货拉拉",
+      url: "https://raw.githubusercontent.com/Andrewuetyang/pics/master/hll_alipay_mp.png"
     }
   ],
   百度智能小程序: [
@@ -548,6 +600,10 @@ const userCases = {
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/swan_mp_qrcode.jpg"
+    },
+    {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB19p4xiBr0gK0jSZFnXXbRRXXa-150-150.png"
     },
     {
       name: "趣叨叨古典音乐",
@@ -585,15 +641,30 @@ const userCases = {
         "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/qq.png"
     },
     {
+      name: "四六级管家",
+      url: "https://user-images.githubusercontent.com/7202516/66696217-95c2dc00-ecfc-11e9-99cd-ae06ad08654e.png"
+    },
+    {
+      name: "剃头推子",
+      url: "https://user-images.githubusercontent.com/7202516/66696218-95c2dc00-ecfc-11e9-98a6-dad868590c79.png"
+    },
+    {
+      name: "给我去水印",
+      url: "https://user-images.githubusercontent.com/3080820/68095430-86424780-fee4-11e9-8882-95f7a3f45dee.png"
+    },
+    {
       name: "画线九宫格",
-      url:
-        "https://raw.githubusercontent.com/zhouran19880120/ad/master/draw9/qq.png"
+      url: "https://user-images.githubusercontent.com/3080820/72341326-e5061780-3704-11ea-8434-8a9ff0e01399.png"
     }
   ],
     字节跳动小程序: [
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/tt_mp_qrcode.jpg"
+    },
+    {
+      name: "淘票票",
+      url: "https://img.alicdn.com/tfs/TB1qxXripY7gK0jSZKzXXaikpXa-150-150.png"
     },
     {
       name: "古典音乐品鉴",
@@ -615,10 +686,15 @@ function chunkArray(ary) {
 }
 
 function renderCases(cases) {
-  return Object.keys(cases)
+  var navhtml = Object.keys(cases).map(key => {
+    return `<a href='#${key}'>${key}<span>(${cases[key].length})</span></a>`
+  }).join('')
+  navhtml = `<div class='grid_c1 app_nav'>${navhtml}</div>`
+
+  var casehtml =  Object.keys(cases)
     .map(key => {
       return `
-      <h2>${key}</h2>
+      <h2 id=${key}>${key}</h2>
       <table
         border="0"
         cellpadding="0"
@@ -631,6 +707,7 @@ function renderCases(cases) {
     `;
     })
     .join("");
+  return navhtml + casehtml
 }
 
 function renderTr(arr) {
