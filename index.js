@@ -499,7 +499,18 @@ const userCases = {
     {
       name: "画线九宫格",
       url: "https://user-images.githubusercontent.com/3080820/72341163-8a6cbb80-3704-11ea-89ea-ac3749825ad0.jpg"
-    }
+    },
+    {
+      name: "极速打车",
+      url: "https://user-images.githubusercontent.com/9129438/72401422-eaa44180-3786-11ea-84e5-dc86939c2d11.jpg"
+    },
+    {
+      name: "掌上高铁",
+      url: "https://user-images.githubusercontent.com/9129438/72402071-ee38c800-3788-11ea-9b35-b3b8ea721dfc.png"
+    },{
+      name: "上海虹桥站",
+      url: "https://user-images.githubusercontent.com/9129438/72402129-293afb80-3789-11ea-9640-54993d1012dd.jpg"
+    },
   ],
   H5: [
     {
@@ -549,7 +560,11 @@ const userCases = {
       name: "每日好心情",
       url:
         "https://user-images.githubusercontent.com/7972688/64514458-3cdadf00-d31d-11e9-8494-4262c6d4d565.jpg"
-    }
+    },
+    {
+      name: "极速打车",
+      url: "https://user-images.githubusercontent.com/9129438/72401533-3bb43580-3787-11ea-8b34-f35f7c2d8d04.png"
+    },
   ],
   支付宝小程序: [
     {
@@ -655,7 +670,12 @@ const userCases = {
     {
       name: "画线九宫格",
       url: "https://user-images.githubusercontent.com/3080820/72341326-e5061780-3704-11ea-8434-8a9ff0e01399.png"
-    }
+    },
+    {
+      name: "极速打车",
+      url: "https://user-images.githubusercontent.com/9129438/72401497-2939fc00-3787-11ea-8697-53f8e9f9ea6c.png"
+    },
+    
   ],
     字节跳动小程序: [
     {
