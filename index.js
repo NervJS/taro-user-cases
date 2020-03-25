@@ -513,6 +513,9 @@ const userCases = {
     },{
       name: "文件解压工具",
       url: "https://user-images.githubusercontent.com/7518455/77147522-5657a300-6a85-11ea-9006-8e1f5657db24.jpg"
+    },{
+      name: "神马排队 云上排号排队预约专家",
+      url: "https://static.gutterbird.cn/paidui/qrcode-wechat.jpg"
     }
   ],
   H5: [
@@ -588,6 +591,10 @@ const userCases = {
     {
       name: "货拉拉",
       url: "https://raw.githubusercontent.com/Andrewuetyang/pics/master/hll_alipay_mp.png"
+    },
+    {
+      name: "神马排队",
+      url: "https://static.gutterbird.cn/paidui/qrcode-alipay.jpg"
     }
   ],
   百度智能小程序: [
