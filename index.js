@@ -515,7 +515,7 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/7518455/77147522-5657a300-6a85-11ea-9006-8e1f5657db24.jpg"
     },{
       name: "神马排队 云上排号排队预约专家",
-      url: "https://static.gutterbird.cn/paidui/qrcode-wechat.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/77616715-43edd580-6f6d-11ea-9672-d63dd33eef44.jpg"
     }
   ],
   H5: [
@@ -594,7 +594,7 @@ const userCases = {
     },
     {
       name: "神马排队",
-      url: "https://static.gutterbird.cn/paidui/qrcode-alipay.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/77616874-b78fe280-6f6d-11ea-98f6-336dc2a222e2.jpg"
     }
   ],
   百度智能小程序: [
