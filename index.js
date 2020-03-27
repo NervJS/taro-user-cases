@@ -516,6 +516,9 @@ const userCases = {
     },{
       name: "神马排队 云上排号排队预约专家",
       url: "https://user-images.githubusercontent.com/3080820/77616715-43edd580-6f6d-11ea-9672-d63dd33eef44.jpg"
+    },{
+      name: "我的衡师",
+      url: "http://cdn.xianghw.xyz/hynu-helper.jpg"
     }
   ],
   H5: [
