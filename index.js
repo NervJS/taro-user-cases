@@ -595,6 +595,14 @@ const userCases = {
     {
       name: "神马排队",
       url: "https://user-images.githubusercontent.com/3080820/77616874-b78fe280-6f6d-11ea-98f6-336dc2a222e2.jpg"
+    },
+    {
+      name: "58同城新房楼盘精选",
+      url: "https://pic7.58cdn.com.cn/nowater/fangfe/n_v2e796d3ef187743b092d31a41d619ebb8.jpg"
+    },
+    {
+      name: "安居客新房楼盘精选",
+      url: "https://pic1.58cdn.com.cn/nowater/fangfe/n_v23b727496a84c4dcb831900db0abc3e74.jpg"
     }
   ],
   百度智能小程序: [
