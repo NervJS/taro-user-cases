@@ -521,6 +521,10 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/3080820/77616715-43edd580-6f6d-11ea-9672-d63dd33eef44.jpg"
     },
     {
+      name: "光速超跑",
+      url: "https://user-images.githubusercontent.com/3080820/78113598-8f532880-7432-11ea-9858-434b20bf7407.jpg"
+    },
+    {
       name: "58同城新房楼盘精选",
       url: "https://pic7.58cdn.com.cn/nowater/fangfe/n_v2e796d3ef187743b092d31a41d619ebb8.jpg"
     },
