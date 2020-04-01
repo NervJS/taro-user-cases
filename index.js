@@ -521,6 +521,14 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/3080820/77616715-43edd580-6f6d-11ea-9672-d63dd33eef44.jpg"
     },
     {
+      name: "58同城新房楼盘精选",
+      url: "https://pic7.58cdn.com.cn/nowater/fangfe/n_v2e796d3ef187743b092d31a41d619ebb8.jpg"
+    },
+    {
+      name: "安居客新房楼盘精选",
+      url: "https://pic1.58cdn.com.cn/nowater/fangfe/n_v23b727496a84c4dcb831900db0abc3e74.jpg"
+    },
+    {
       name: "我的衡师",
       url: "https://user-images.githubusercontent.com/3080820/78109823-94ad7480-742c-11ea-9c8b-8a685fbde983.jpg"
     }
