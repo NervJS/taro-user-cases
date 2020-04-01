@@ -521,6 +521,10 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/3080820/77616715-43edd580-6f6d-11ea-9672-d63dd33eef44.jpg"
     },
     {
+      name: "辅助小能手",
+      url: "https://user-images.githubusercontent.com/3080820/78114236-8747b880-7433-11ea-83f3-07c2b5b1cda6.jpg"
+    },
+    {
       name: "光速超跑",
       url: "https://user-images.githubusercontent.com/3080820/78113598-8f532880-7432-11ea-9858-434b20bf7407.jpg"
     },
