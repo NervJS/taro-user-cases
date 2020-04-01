@@ -527,6 +527,10 @@ const userCases = {
     {
       name: "安居客新房楼盘精选",
       url: "https://pic1.58cdn.com.cn/nowater/fangfe/n_v23b727496a84c4dcb831900db0abc3e74.jpg"
+    },
+    {
+      name: "我的衡师",
+      url: "https://user-images.githubusercontent.com/3080820/78109823-94ad7480-742c-11ea-9c8b-8a685fbde983.jpg"
     }
   ],
   H5: [
