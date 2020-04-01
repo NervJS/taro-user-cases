@@ -507,18 +507,22 @@ const userCases = {
     {
       name: "掌上高铁",
       url: "https://user-images.githubusercontent.com/9129438/72402071-ee38c800-3788-11ea-9b35-b3b8ea721dfc.png"
-    },{
+    },
+    {
       name: "上海虹桥站",
       url: "https://user-images.githubusercontent.com/9129438/72402129-293afb80-3789-11ea-9640-54993d1012dd.jpg"
-    },{
+    },
+    {
       name: "文件解压工具",
       url: "https://user-images.githubusercontent.com/7518455/77147522-5657a300-6a85-11ea-9006-8e1f5657db24.jpg"
-    },{
+    },
+    {
       name: "神马排队 云上排号排队预约专家",
       url: "https://user-images.githubusercontent.com/3080820/77616715-43edd580-6f6d-11ea-9672-d63dd33eef44.jpg"
-    },{
+    },
+    {
       name: "我的衡师",
-      url: "http://cdn.xianghw.xyz/hynu-helper.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/78109823-94ad7480-742c-11ea-9c8b-8a685fbde983.jpg"
     }
   ],
   H5: [
