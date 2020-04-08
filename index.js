@@ -539,6 +539,10 @@ const userCases = {
     {
       name: "我的衡师",
       url: "https://user-images.githubusercontent.com/3080820/78109823-94ad7480-742c-11ea-9c8b-8a685fbde983.jpg"
+    },
+    {
+      name: "谁来做家务",
+      url: "https://raw.githubusercontent.com/lukeymyuan/lukeymyuan.github.io/master/img/housework-decision-maker-qrcode.jpg"
     }
   ],
   H5: [
