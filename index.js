@@ -539,9 +539,10 @@ const userCases = {
     {
       name: "我的衡师",
       url: "https://user-images.githubusercontent.com/3080820/78109823-94ad7480-742c-11ea-9c8b-8a685fbde983.jpg"
-    },{
+    },
+    {
       name: "美菜商城",
-      url: "https://img-oss.yunshanmeicai.com/mmp/gh_a4b9cd2d059e_344.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/78957569-45480200-7b18-11ea-8760-002c5eb8ac0b.jpg"
     }
   ],
   H5: [
@@ -621,9 +622,10 @@ const userCases = {
     {
       name: "神马排队",
       url: "https://user-images.githubusercontent.com/3080820/77616874-b78fe280-6f6d-11ea-98f6-336dc2a222e2.jpg"
-    },{
+    },
+    {
       name: "美菜商城",
-      url: "https://img-oss.yunshanmeicai.com/mmp/s6x19475qlgxmlrrk6obn5a_126044814.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/78957586-51cc5a80-7b18-11ea-8994-3f2ef8300ce1.jpg"
     }
   ],
   百度智能小程序: [
