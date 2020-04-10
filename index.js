@@ -542,7 +542,11 @@ const userCases = {
     },
     {
       name: "谁来做家务",
-      url: "https://raw.githubusercontent.com/lukeymyuan/lukeymyuan.github.io/master/img/housework-decision-maker-qrcode.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/78957925-3a41a180-7b19-11ea-82f6-8fc9c078fd1d.jpg"
+    },
+    {
+      name: "美菜商城",
+      url: "https://user-images.githubusercontent.com/3080820/78957569-45480200-7b18-11ea-8760-002c5eb8ac0b.jpg"
     }
   ],
   H5: [
@@ -622,6 +626,10 @@ const userCases = {
     {
       name: "神马排队",
       url: "https://user-images.githubusercontent.com/3080820/77616874-b78fe280-6f6d-11ea-98f6-336dc2a222e2.jpg"
+    },
+    {
+      name: "美菜商城",
+      url: "https://user-images.githubusercontent.com/3080820/78957586-51cc5a80-7b18-11ea-8994-3f2ef8300ce1.jpg"
     }
   ],
   百度智能小程序: [
