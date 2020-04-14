@@ -547,6 +547,10 @@ const userCases = {
     {
       name: "美菜商城",
       url: "https://user-images.githubusercontent.com/3080820/78957569-45480200-7b18-11ea-8760-002c5eb8ac0b.jpg"
+    },
+    {
+      name: "红口袋",
+      url: "http://img.maigang360.com/Bcode/appCode/1586760742875.png"
     }
   ],
   H5: [
@@ -720,7 +724,7 @@ const userCases = {
       name: "极速打车",
       url: "https://user-images.githubusercontent.com/9129438/72401497-2939fc00-3787-11ea-8697-53f8e9f9ea6c.png"
     },
-    
+
   ],
     字节跳动小程序: [
     {
