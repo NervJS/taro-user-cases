@@ -551,6 +551,10 @@ const userCases = {
     {
       name: "红口袋",
       url: "http://img.maigang360.com/Bcode/appCode/1586760742875.png"
+    },
+    {
+      name: "趣扫云商户通",
+      url: "https://tva1.sinaimg.cn/large/007S8ZIlgy1ge0ahtpzdzj30by0by74q.jpg"
     }
   ],
   H5: [
@@ -634,6 +638,10 @@ const userCases = {
     {
       name: "美菜商城",
       url: "https://user-images.githubusercontent.com/3080820/78957586-51cc5a80-7b18-11ea-8994-3f2ef8300ce1.jpg"
+    },
+    {
+      name: "趣扫云商户通",
+      url: "https://tva1.sinaimg.cn/large/007S8ZIlgy1ge0ajrtnp8j30u0115ju3.jpg"
     }
   ],
   百度智能小程序: [
