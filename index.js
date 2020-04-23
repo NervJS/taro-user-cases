@@ -554,7 +554,7 @@ const userCases = {
     },
     {
       name: "趣扫云商户通",
-      url: "https://tva1.sinaimg.cn/large/007S8ZIlgy1ge0ahtpzdzj30by0by74q.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/80064006-b6040b00-8569-11ea-9d77-53b8e8257abc.jpg"
     }
   ],
   H5: [
@@ -641,7 +641,7 @@ const userCases = {
     },
     {
       name: "趣扫云商户通",
-      url: "https://tva1.sinaimg.cn/large/007S8ZIlgy1ge0ajrtnp8j30u0115ju3.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/80064021-bc928280-8569-11ea-8ebb-48bed3ab7ab4.png"
     }
   ],
   百度智能小程序: [
