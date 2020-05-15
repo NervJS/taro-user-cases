@@ -555,6 +555,10 @@ const userCases = {
     {
       name: "趣扫云商户通",
       url: "https://user-images.githubusercontent.com/3080820/80064006-b6040b00-8569-11ea-9d77-53b8e8257abc.jpg"
+    },
+    {
+      name: "轻点名片",
+      url: "https://user-images.githubusercontent.com/25032899/81496991-29d63f80-92ee-11ea-888f-b9e9ad7ab990.jpg"
     }
   ],
   H5: [
