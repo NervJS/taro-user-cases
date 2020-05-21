@@ -559,6 +559,10 @@ const userCases = {
     {
       name: "轻点名片",
       url: "https://user-images.githubusercontent.com/25032899/81496991-29d63f80-92ee-11ea-888f-b9e9ad7ab990.jpg"
+    },
+    {
+      name: "智能票据夹",
+      url: "https://user-images.githubusercontent.com/37186113/82115675-df920a00-9796-11ea-85d7-03358d78af92.jpg"
     }
   ],
   H5: [
