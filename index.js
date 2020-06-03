@@ -41,6 +41,10 @@ const userCases = {
       url: "https://img.alicdn.com/tfs/TB1RoXxixD1gK0jSZFyXXciOVXa-430-430.png"
     },
     {
+      name: "极易推智能获客管理系统",
+      url: "https://github.com/bozaigao/Taro-demo/blob/master/Taro-demo/src/assets/gh_2371cb04b4b6_258.jpg"
+    },
+    {
       name: "豆芽名片",
       url: "https://user-images.githubusercontent.com/16730031/64512839-d0aaac00-d319-11e9-94fb-7d10b9bc2b22.jpg"
     },
