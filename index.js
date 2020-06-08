@@ -563,6 +563,14 @@ const userCases = {
     {
       name: "智能票据夹",
       url: "https://user-images.githubusercontent.com/37186113/82115675-df920a00-9796-11ea-85d7-03358d78af92.jpg"
+    },
+    {
+      name: "神农猫",
+      url: "https://github.com/wsyxl365/Taro-company-code/blob/master/shennongmao.jpg"
+    },
+    {
+      name: "接龙猫",
+      url: "https://github.com/wsyxl365/Taro-company-code/blob/master/jielongmao.jpg"
     }
   ],
   H5: [
