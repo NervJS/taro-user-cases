@@ -42,7 +42,7 @@ const userCases = {
     },
     {
       name: "极易推智能获客管理系统",
-      url: "https://github.com/bozaigao/Taro-demo/blob/master/Taro-demo/src/assets/gh_2371cb04b4b6_258.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/84220162-c44fbb80-ab04-11ea-9ce2-7a29e37b95b9.jpg"
     },
     {
       name: "豆芽名片",
