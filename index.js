@@ -567,6 +567,10 @@ const userCases = {
     {
       name: "来摆摊儿",
       url: "https://raw.githubusercontent.com/ZHENGGEGE/images/master/baitan.jpg"
+    },
+    {
+      name: "GoFun出行",
+      url: "https://user-images.githubusercontent.com/3080820/84217718-74222a80-aaff-11ea-9717-a60b27ed8c96.png"
     }
   ],
   H5: [
