@@ -1,10 +1,6 @@
 const userCases = {
   微信小程序: [
     {
-      name: "GoFun出行",
-      url: "http://material.shouqiev.com/9f5d8026e4b1e6b3d8b5b09ccc979309.png"
-    },
-    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
@@ -567,6 +563,10 @@ const userCases = {
     {
       name: "智能票据夹",
       url: "https://user-images.githubusercontent.com/37186113/82115675-df920a00-9796-11ea-85d7-03358d78af92.jpg"
+    },
+    {
+      name: "GoFun出行",
+      url: "https://user-images.githubusercontent.com/3080820/84217718-74222a80-aaff-11ea-9717-a60b27ed8c96.png"
     }
   ],
   H5: [
