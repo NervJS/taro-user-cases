@@ -662,6 +662,10 @@ const userCases = {
     {
       name: "趣扫云商户通",
       url: "https://user-images.githubusercontent.com/3080820/80064021-bc928280-8569-11ea-8ebb-48bed3ab7ab4.png"
+    },
+    {
+      name: 'GoFun出行',
+      url: 'https://material.shouqiev.com/2557c8c27f4a7e22770a135591946259.jpg'
     }
   ],
   百度智能小程序: [
