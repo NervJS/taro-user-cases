@@ -45,6 +45,10 @@ const userCases = {
       url: "https://img.alicdn.com/tfs/TB1RoXxixD1gK0jSZFyXXciOVXa-430-430.png"
     },
     {
+      name: "极易推智能获客管理系统",
+      url: "https://user-images.githubusercontent.com/3080820/84220162-c44fbb80-ab04-11ea-9ce2-7a29e37b95b9.jpg"
+    },
+    {
       name: "豆芽名片",
       url: "https://user-images.githubusercontent.com/16730031/64512839-d0aaac00-d319-11e9-94fb-7d10b9bc2b22.jpg"
     },
@@ -567,6 +571,14 @@ const userCases = {
     {
       name: "智能票据夹",
       url: "https://user-images.githubusercontent.com/37186113/82115675-df920a00-9796-11ea-85d7-03358d78af92.jpg"
+    },
+    {
+      name: "来摆摊儿",
+      url: "https://raw.githubusercontent.com/ZHENGGEGE/images/master/baitan.jpg"
+    },
+    {
+      name: "GoFun出行",
+      url: "https://user-images.githubusercontent.com/3080820/84217718-74222a80-aaff-11ea-9717-a60b27ed8c96.png"
     }
   ],
   H5: [
