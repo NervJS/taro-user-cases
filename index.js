@@ -708,6 +708,10 @@ const userCases = {
     {
       name: "画线九宫格",
       url: "https://raw.githubusercontent.com/zhouran19880120/ad/master/draw9/swan.png"
+    },
+    {
+      name: "樊登读书",
+      url: "https://user-images.githubusercontent.com/22906037/84597240-3de50200-ae95-11ea-8d3e-cd32dfc6d8da.png"
     }
   ],
   移动端应用: [
