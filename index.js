@@ -575,6 +575,14 @@ const userCases = {
     {
       name: "GoFun出行",
       url: "https://user-images.githubusercontent.com/3080820/84217718-74222a80-aaff-11ea-9717-a60b27ed8c96.png"
+    },
+    {
+      name: "神农猫",
+      url: "https://user-images.githubusercontent.com/3080820/84221748-86549680-ab08-11ea-9d42-a17b6e7884c6.jpg"
+    },
+    {
+      name: "接龙猫",
+      url: "https://user-images.githubusercontent.com/3080820/84221767-8fddfe80-ab08-11ea-9f48-a9df3d968fcc.jpg"
     }
   ],
   H5: [
