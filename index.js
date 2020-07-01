@@ -583,6 +583,10 @@ const userCases = {
     {
       name: "接龙猫",
       url: "https://user-images.githubusercontent.com/3080820/84221767-8fddfe80-ab08-11ea-9f48-a9df3d968fcc.jpg"
+    },
+    {
+      name: '菲住酒店联盟',
+      url: 'https://img.alicdn.com/tfs/TB1zPk4dP39YK4jSZPcXXXrUFXa-256-256.png'
     }
   ],
   H5: [
@@ -674,6 +678,10 @@ const userCases = {
     {
       name: 'GoFun出行',
       url: 'https://material.shouqiev.com/2557c8c27f4a7e22770a135591946259.jpg'
+    },
+    {
+      name: '菲住酒店联盟',
+      url: 'https://img.alicdn.com/tfs/TB1zPk4dP39YK4jSZPcXXXrUFXa-256-256.png'
     }
   ],
   百度智能小程序: [
