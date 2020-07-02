@@ -1,5 +1,9 @@
 const userCases = {
   微信小程序: [
+     {
+      name: "布鲁街优选",
+      url: "https://cdn.bulutbazar.com/upload/merchant/%7B6939%7D/263/2007/02/5efdd0c0633f3.jpg"
+    },
     {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
