@@ -1,6 +1,10 @@
 const userCases = {
   微信小程序: [
     {
+      name: "车主之家汽车报价",
+      url: "https://s.img16888.com/program/price/wxqrcode.jpg"
+    },
+    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
@@ -583,6 +587,10 @@ const userCases = {
     {
       name: "接龙猫",
       url: "https://user-images.githubusercontent.com/3080820/84221767-8fddfe80-ab08-11ea-9f48-a9df3d968fcc.jpg"
+    },
+    {
+      name: "吉事办",
+      url: "https://user-images.githubusercontent.com/35049517/86224167-1ee7af00-bbbb-11ea-8fda-9c84eb505662.jpg"
     },
     {
       name: '菲住酒店联盟',
