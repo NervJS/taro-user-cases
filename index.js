@@ -1,5 +1,9 @@
 const userCases = {
   微信小程序: [
+     {
+      name: "布鲁街优选",
+      url: "https://cdn.bulutbazar.com/upload/merchant/%7B6939%7D/263/2007/02/5efdd0c0633f3.jpg"
+    },
     {
       name: "车主之家汽车报价",
       url: "https://s.img16888.com/program/price/wxqrcode.jpg"
