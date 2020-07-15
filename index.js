@@ -1,13 +1,5 @@
 const userCases = {
   微信小程序: [
-     {
-      name: "布鲁街优选",
-      url: "https://cdn.bulutbazar.com/upload/merchant/%7B6939%7D/263/2007/02/5efdd0c0633f3.jpg"
-    },
-    {
-      name: "车主之家汽车报价",
-      url: "https://s.img16888.com/program/price/wxqrcode.jpg"
-    },
     {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
@@ -598,7 +590,15 @@ const userCases = {
     },
     {
       name: '菲住酒店联盟',
-      url: 'https://img.alicdn.com/tfs/TB1w_oFMbr1gK0jSZR0XXbP8XXa-430-430.jpg'
+      url: 'https://user-images.githubusercontent.com/3080820/87500885-48f7a180-c690-11ea-8543-8aec04492a39.jpg'
+    },
+    {
+      name: "布鲁街优选",
+      url: "https://user-images.githubusercontent.com/3080820/87501153-fa96d280-c690-11ea-9c06-8936aacb7150.jpg"
+    },
+    {
+      name: "车主之家汽车报价",
+      url: "https://user-images.githubusercontent.com/3080820/87501278-46497c00-c691-11ea-922a-db09e23e8e03.jpg"
     }
   ],
   H5: [
@@ -693,7 +693,7 @@ const userCases = {
     },
     {
       name: '菲住酒店联盟',
-      url: 'https://img.alicdn.com/tfs/TB1zPk4dP39YK4jSZPcXXXrUFXa-256-256.png'
+      url: 'https://user-images.githubusercontent.com/3080820/87501020-a7248480-c690-11ea-875b-387f8b3deed8.png'
     }
   ],
   百度智能小程序: [
