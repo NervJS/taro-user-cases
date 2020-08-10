@@ -603,6 +603,10 @@ const userCases = {
     {
       name: "阅读北京",
       url: "https://user-images.githubusercontent.com/3080820/88007989-c3696b00-cb41-11ea-8f4a-181d301be9f1.jpg"
+    },
+    {
+      name: "同学在哪儿",
+      url: "https://mayandev.oss-cn-hangzhou.aliyuncs.com/other/mini-program.jpeg"
     }
   ],
   H5: [
