@@ -607,6 +607,10 @@ const userCases = {
     {
       name: "同学在哪儿",
       url: "https://mayandev.oss-cn-hangzhou.aliyuncs.com/other/mini-program.jpeg"
+    },
+    {
+      name: "瓜子二手车",
+      url: "https://user-images.githubusercontent.com/3838586/86549939-929b0a80-bf73-11ea-95ea-2700424fd155.png"
     }
   ],
   H5: [
