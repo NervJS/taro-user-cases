@@ -611,6 +611,10 @@ const userCases = {
     {
       name: "瓜子二手车",
       url: "https://user-images.githubusercontent.com/3838586/86549939-929b0a80-bf73-11ea-95ea-2700424fd155.png"
+    },
+    {
+      name: "MECE学习力诊断",
+      url: "https://user-images.githubusercontent.com/26996446/91155769-ddc0d680-e6f5-11ea-91ea-0adfa3823944.jpg"
     }
   ],
   H5: [
