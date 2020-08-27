@@ -614,7 +614,7 @@ const userCases = {
     },
     {
       name: "智击商城",
-      url: "https://github.com/han88829/nav/blob/master/media/qrcode.jpeg?raw=true"
+      url: "https://raw.githubusercontent.com/han88829/nav/master/media/qrcode.jpeg"
     }
   ],
   H5: [
