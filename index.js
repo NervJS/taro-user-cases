@@ -611,6 +611,10 @@ const userCases = {
     {
       name: "瓜子二手车",
       url: "https://user-images.githubusercontent.com/3838586/86549939-929b0a80-bf73-11ea-95ea-2700424fd155.png"
+    },
+    {
+      name: "智击商城",
+      url: "https://github.com/han88829/nav/blob/master/media/qrcode.jpeg?raw=true"
     }
   ],
   H5: [
