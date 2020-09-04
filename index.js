@@ -613,6 +613,10 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/3838586/86549939-929b0a80-bf73-11ea-95ea-2700424fd155.png"
     },
     {
+      name: "智击商城",
+      url: "https://user-images.githubusercontent.com/3080820/92252996-96aac080-ef01-11ea-9132-46cbbb81c28c.jpeg"
+    },
+    {
       name: "MECE学习力诊断",
       url: "https://user-images.githubusercontent.com/26996446/91155769-ddc0d680-e6f5-11ea-91ea-0adfa3823944.jpg"
     }
