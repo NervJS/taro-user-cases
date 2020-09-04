@@ -614,7 +614,11 @@ const userCases = {
     },
     {
       name: "智击商城",
-      url: "https://raw.githubusercontent.com/han88829/nav/master/media/qrcode.jpeg"
+      url: "https://user-images.githubusercontent.com/3080820/92252996-96aac080-ef01-11ea-9132-46cbbb81c28c.jpeg"
+    },
+    {
+      name: "MECE学习力诊断",
+      url: "https://user-images.githubusercontent.com/26996446/91155769-ddc0d680-e6f5-11ea-91ea-0adfa3823944.jpg"
     }
   ],
   H5: [
