@@ -619,6 +619,10 @@ const userCases = {
     {
       name: "MECE学习力诊断",
       url: "https://user-images.githubusercontent.com/26996446/91155769-ddc0d680-e6f5-11ea-91ea-0adfa3823944.jpg"
+    },
+    {
+      name: "烘焙小百科",
+      url: "https://evilcult.dev/image/mp_qr_code.jpg"
     }
   ],
   H5: [
