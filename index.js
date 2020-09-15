@@ -693,7 +693,7 @@ const userCases = {
     },
     {
       name: "淘租公",
-      url: "https://tzg-static.oss-cn-hangzhou.aliyuncs.com/alipay/alipay_qrcode.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/93156410-ab295d00-f73a-11ea-8bed-b940ca6c8a92.png"
     },
     {
       name: "货拉拉",
