@@ -692,6 +692,10 @@ const userCases = {
         "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/alipay.jpg"
     },
     {
+      name: "淘租公",
+      url: "https://tzg-static.oss-cn-hangzhou.aliyuncs.com/alipay/alipay_qrcode.jpg"
+    },
+    {
       name: "货拉拉",
       url: "https://raw.githubusercontent.com/Andrewuetyang/pics/master/hll_alipay_mp.png"
     },
