@@ -619,6 +619,10 @@ const userCases = {
     {
       name: "MECE学习力诊断",
       url: "https://user-images.githubusercontent.com/26996446/91155769-ddc0d680-e6f5-11ea-91ea-0adfa3823944.jpg"
+    },
+    {
+      name: "涂鸦智能",
+      url: "https://images.tuyacn.com/rms-static/9cbc9210-cb1f-11ea-9723-5fcc4b1eeb4e-1595314722225.jpg?tyName=gh_42ad2888c42d_258.jpg"
     }
   ],
   H5: [
