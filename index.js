@@ -621,8 +621,16 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/26996446/91155769-ddc0d680-e6f5-11ea-91ea-0adfa3823944.jpg"
     },
     {
+      name: "烘焙小百科",
+      url: "https://user-images.githubusercontent.com/3080820/93579180-c1e8e180-f9d0-11ea-8058-4c3cf10ff8d8.jpg"
+    },
+    {
+      name: "隐私短信",
+      url: "https://user-images.githubusercontent.com/23022715/93010097-1e0bca00-f5bb-11ea-9028-d723e0982a2e.png"
+    },
+    {
       name: "涂鸦智能",
-      url: "https://images.tuyacn.com/rms-static/9cbc9210-cb1f-11ea-9723-5fcc4b1eeb4e-1595314722225.jpg?tyName=gh_42ad2888c42d_258.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/93579890-a3cfb100-f9d1-11ea-8b01-f7f6333c6be0.jpg"
     }
   ],
   H5: [
