@@ -619,6 +619,10 @@ const userCases = {
     {
       name: "MECE学习力诊断",
       url: "https://user-images.githubusercontent.com/26996446/91155769-ddc0d680-e6f5-11ea-91ea-0adfa3823944.jpg"
+    },
+    {
+      name: "隐私短信",
+      url: "https://user-images.githubusercontent.com/23022715/93010097-1e0bca00-f5bb-11ea-9028-d723e0982a2e.png"
     }
   ],
   H5: [
