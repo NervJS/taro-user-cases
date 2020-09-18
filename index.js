@@ -622,7 +622,11 @@ const userCases = {
     },
     {
       name: "烘焙小百科",
-      url: "https://evilcult.dev/image/mp_qr_code.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/93579180-c1e8e180-f9d0-11ea-8058-4c3cf10ff8d8.jpg"
+    },
+    {
+      name: "隐私短信",
+      url: "https://user-images.githubusercontent.com/23022715/93010097-1e0bca00-f5bb-11ea-9028-d723e0982a2e.png"
     }
   ],
   H5: [
@@ -694,6 +698,10 @@ const userCases = {
       name: "趣叨叨古典音乐",
       url:
         "https://raw.githubusercontent.com/zhouran19880120/ad/master/100stories/alipay.jpg"
+    },
+    {
+      name: "淘租公",
+      url: "https://user-images.githubusercontent.com/3080820/93156410-ab295d00-f73a-11ea-8bed-b940ca6c8a92.png"
     },
     {
       name: "货拉拉",
