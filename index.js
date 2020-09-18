@@ -627,6 +627,10 @@ const userCases = {
     {
       name: "隐私短信",
       url: "https://user-images.githubusercontent.com/23022715/93010097-1e0bca00-f5bb-11ea-9028-d723e0982a2e.png"
+    },
+    {
+      name: "涂鸦智能",
+      url: "https://user-images.githubusercontent.com/3080820/93579890-a3cfb100-f9d1-11ea-8b01-f7f6333c6be0.jpg"
     }
   ],
   H5: [
