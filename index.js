@@ -621,6 +621,10 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/26996446/91155769-ddc0d680-e6f5-11ea-91ea-0adfa3823944.jpg"
     },
     {
+      name: "烘焙小百科",
+      url: "https://user-images.githubusercontent.com/3080820/93579180-c1e8e180-f9d0-11ea-8058-4c3cf10ff8d8.jpg"
+    },
+    {
       name: "隐私短信",
       url: "https://user-images.githubusercontent.com/23022715/93010097-1e0bca00-f5bb-11ea-9028-d723e0982a2e.png"
     }
