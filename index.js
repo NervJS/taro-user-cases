@@ -631,7 +631,12 @@ const userCases = {
     {
       name: "涂鸦智能",
       url: "https://user-images.githubusercontent.com/3080820/93579890-a3cfb100-f9d1-11ea-8b01-f7f6333c6be0.jpg"
+    },
+    {
+      name: "教师职位库",
+      url: "https://raw.githubusercontent.com/lovelydong/pic/master/zwk.jpg"
     }
+    
   ],
   H5: [
     {
