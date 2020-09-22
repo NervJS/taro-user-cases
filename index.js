@@ -631,6 +631,10 @@ const userCases = {
     {
       name: "涂鸦智能",
       url: "https://user-images.githubusercontent.com/3080820/93579890-a3cfb100-f9d1-11ea-8b01-f7f6333c6be0.jpg"
+    },
+    {
+      name: "AI体验中心",
+      url: "https://raw.githubusercontent.com/178518/luban_book/master/src/images/mini-program.jpg"
     }
   ],
   H5: [
