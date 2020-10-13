@@ -13,6 +13,10 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/image20.jpeg"
     },
     {
+      name: "查车牌",
+      url: "https://imondo.cn/files/carapp.jpg"
+    },
+    {
       name: "玲珑",
       url: "http://storage.jd.com/taro-resource/cases/玲珑.png"
     },
