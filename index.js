@@ -635,6 +635,10 @@ const userCases = {
     {
       name: "趣婚礼",
       url: "https://forguo-1302175274.cos.ap-shanghai.myqcloud.com/wedding/assets/img/qrcode.jpeg"
+    },
+    {
+      name: "查车牌",
+      url: "https://user-images.githubusercontent.com/3080820/97128858-66043c00-1778-11eb-9669-be8c561f1072.jpg"
     }
   ],
   H5: [
@@ -734,6 +738,10 @@ const userCases = {
     {
       name: '菲住酒店联盟',
       url: 'https://user-images.githubusercontent.com/3080820/87501020-a7248480-c690-11ea-875b-387f8b3deed8.png'
+    },
+    {
+      name: '吉事办',
+      url: 'https://user-images.githubusercontent.com/35049517/93738483-7b85c380-fc18-11ea-8266-3c239fd96b6c.jpg'
     }
   ],
   百度智能小程序: [
