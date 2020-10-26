@@ -13,10 +13,6 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/image20.jpeg"
     },
     {
-      name: "查车牌",
-      url: "https://imondo.cn/files/carapp.jpg"
-    },
-    {
       name: "玲珑",
       url: "http://storage.jd.com/taro-resource/cases/玲珑.png"
     },
@@ -635,7 +631,11 @@ const userCases = {
     {
       name: "涂鸦智能",
       url: "https://user-images.githubusercontent.com/3080820/93579890-a3cfb100-f9d1-11ea-8b01-f7f6333c6be0.jpg"
-    }
+    },
+    {
+      name: "查车牌",
+      url: "https://user-images.githubusercontent.com/3080820/97128858-66043c00-1778-11eb-9669-be8c561f1072.jpg"
+    },
   ],
   H5: [
     {
