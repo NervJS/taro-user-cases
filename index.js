@@ -633,8 +633,12 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/3080820/93579890-a3cfb100-f9d1-11ea-8b01-f7f6333c6be0.jpg"
     },
     {
+      name: "教师职位库",
+      url: "https://user-images.githubusercontent.com/3080820/97129731-9b118e00-177a-11eb-8561-8365608dc5e7.jpg"
+    },
+    {
       name: "趣婚礼",
-      url: "https://forguo-1302175274.cos.ap-shanghai.myqcloud.com/wedding/assets/img/qrcode.jpeg"
+      url: "https://user-images.githubusercontent.com/3080820/97129834-d7dd8500-177a-11eb-9c69-24303e8daa8f.jpeg"
     },
     {
       name: "查车牌",
