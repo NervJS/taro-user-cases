@@ -633,9 +633,13 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/3080820/93579890-a3cfb100-f9d1-11ea-8b01-f7f6333c6be0.jpg"
     },
     {
+      name: "趣婚礼",
+      url: "https://forguo-1302175274.cos.ap-shanghai.myqcloud.com/wedding/assets/img/qrcode.jpeg"
+    },
+    {
       name: "查车牌",
       url: "https://user-images.githubusercontent.com/3080820/97128858-66043c00-1778-11eb-9669-be8c561f1072.jpg"
-    },
+    }
   ],
   H5: [
     {
