@@ -643,6 +643,10 @@ const userCases = {
     {
       name: "查车牌",
       url: "https://user-images.githubusercontent.com/3080820/97128858-66043c00-1778-11eb-9669-be8c561f1072.jpg"
+    },
+    {
+      name: "脑易安",
+      url: "https://cdn.naoyian.com/img/20201106/gh_dbf1d2c17b28_344.jpg"
     }
   ],
   H5: [
@@ -698,6 +702,10 @@ const userCases = {
       name: "极速打车",
       url: "https://user-images.githubusercontent.com/9129438/72401533-3bb43580-3787-11ea-8b34-f35f7c2d8d04.png"
     },
+    {
+      name: "脑易安",
+      url: "https://cdn.naoyian.com/img/20201106/naoyian.png"
+    }
   ],
   支付宝小程序: [
     {
