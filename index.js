@@ -646,7 +646,7 @@ const userCases = {
     },
     {
       name: "脑易安",
-      url: "https://cdn.naoyian.com/img/20201106/gh_dbf1d2c17b28_344.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/98386712-7b883880-208b-11eb-9b76-ce31a52ad964.jpg"
     }
   ],
   H5: [
@@ -704,7 +704,7 @@ const userCases = {
     },
     {
       name: "脑易安",
-      url: "https://cdn.naoyian.com/img/20201106/naoyian.png"
+      url: "https://user-images.githubusercontent.com/3080820/98386727-80e58300-208b-11eb-8b1e-8d1256fef219.png"
     }
   ],
   支付宝小程序: [
