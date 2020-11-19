@@ -651,6 +651,10 @@ const userCases = {
     {
       name: "AI体验中心",
       url: "https://raw.githubusercontent.com/178518/weapp-assets/main/src/images/mini-program.jpg"
+    },
+    {
+      name: "2020年检计算器",
+      url: "http://qk1exitla.hn-bkt.clouddn.com/mini-program.jpg"
     }
   ],
   H5: [
