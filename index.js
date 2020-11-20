@@ -654,7 +654,7 @@ const userCases = {
     },
     {
       name: "2020年检计算器",
-      url: "http://qk1exitla.hn-bkt.clouddn.com/mini-program.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/99806240-afc62380-2b78-11eb-9b12-838a3d482d57.jpg"
     }
   ],
   H5: [
