@@ -655,6 +655,10 @@ const userCases = {
     {
       name: "2020年检计算器",
       url: "https://user-images.githubusercontent.com/3080820/99806240-afc62380-2b78-11eb-9b12-838a3d482d57.jpg"
+    },
+    {
+      name: "星贝保险",
+      url: "https://user-images.githubusercontent.com/13925302/99869910-c5375e00-2c09-11eb-9f7f-eb445606a9b9.jpg"
     }
   ],
   H5: [
