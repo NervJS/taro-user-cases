@@ -717,6 +717,10 @@ const userCases = {
     {
       name: "脑易安",
       url: "https://user-images.githubusercontent.com/3080820/98386727-80e58300-208b-11eb-8b1e-8d1256fef219.png"
+    },
+    {
+      name: "妙绘艺术",
+      url: "http://img30.360buyimg.com/img/jfs/t1/131731/19/17125/99969/5fbc74e8Ed24bfc55/074d5705f6a31a6c.jpg"
     }
   ],
   支付宝小程序: [
