@@ -663,6 +663,10 @@ const userCases = {
     {
       name: "妙绘艺术",
       url: "http://img30.360buyimg.com/img/jfs/t1/131731/19/17125/99969/5fbc74e8Ed24bfc55/074d5705f6a31a6c.jpg"
+    },
+    {
+      name: "威马智行",
+      url: "https://photo.wm-motor.com/wm-intelligent-driving-miniapp/imgs/user-case-20201126132534.jpg"
     }
   ],
   H5: [
