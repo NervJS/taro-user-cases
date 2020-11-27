@@ -666,7 +666,7 @@ const userCases = {
     },
     {
       name: "威马智行",
-      url: "https://photo.wm-motor.com/wm-intelligent-driving-miniapp/imgs/user-case-20201126132534.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/100472856-0521a800-3118-11eb-887b-9adbf19ee093.jpg"
     }
   ],
   H5: [
