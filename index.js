@@ -667,6 +667,10 @@ const userCases = {
     {
       name: "威马智行",
       url: "https://user-images.githubusercontent.com/3080820/100472856-0521a800-3118-11eb-887b-9adbf19ee093.jpg"
+    },
+    {
+      name: "Genebox基因宝",
+      url: "https://github.com/songxiaoliang/resources/blob/master/gh_f2f9c52bfdef_344.jpg?raw=true"
     }
   ],
   H5: [
