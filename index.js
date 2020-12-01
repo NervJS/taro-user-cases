@@ -1,6 +1,10 @@
 const userCases = {
   微信小程序: [
     {
+      name: "淦饭人",
+      url: "http://qiniu.xshwy.cn/ganfan_taro.png"
+    },
+    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
