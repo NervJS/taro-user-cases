@@ -671,6 +671,10 @@ const userCases = {
     {
       name: "Genebox基因宝",
       url: "https://user-images.githubusercontent.com/3080820/100818963-2b33a900-3486-11eb-821a-692178a13bcd.jpg"
+    },
+    {
+      name: "淦饭人",
+      url: "https://user-images.githubusercontent.com/3080820/100819258-bf057500-3486-11eb-94da-b9105fdcb287.png"
     }
   ],
   H5: [
