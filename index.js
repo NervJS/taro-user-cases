@@ -1,10 +1,6 @@
 const userCases = {
   微信小程序: [
     {
-      name: "淦饭人",
-      url: "http://qiniu.xshwy.cn/ganfan_taro.png"
-    },
-    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
@@ -671,6 +667,14 @@ const userCases = {
     {
       name: "威马智行",
       url: "https://user-images.githubusercontent.com/3080820/100472856-0521a800-3118-11eb-887b-9adbf19ee093.jpg"
+    },
+    {
+      name: "Genebox基因宝",
+      url: "https://user-images.githubusercontent.com/3080820/100818963-2b33a900-3486-11eb-821a-692178a13bcd.jpg"
+    },
+    {
+      name: "淦饭人",
+      url: "https://user-images.githubusercontent.com/3080820/100819258-bf057500-3486-11eb-94da-b9105fdcb287.png"
     }
   ],
   H5: [
