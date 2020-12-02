@@ -683,6 +683,10 @@ const userCases = {
     {
       name: '巴迪e购',
       url: 'https://raw.githubusercontent.com/ljyljy0211/case/master/badi.jpeg'
+    },
+    {
+      name: 'ZE SPEED',
+      url: 'https://raw.githubusercontent.com/ljyljy0211/case/master/zespeed.jpeg'
     }
   ],
   H5: [
