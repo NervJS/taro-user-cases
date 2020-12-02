@@ -670,7 +670,7 @@ const userCases = {
     },
     {
       name: "Genebox基因宝",
-      url: "https://static.genebox.cn/laso/file/202012/01/77cfde9633b911ebb4ad3aa59ca4f603.jpg"
+      url: "https://user-images.githubusercontent.com/3080820/100818963-2b33a900-3486-11eb-821a-692178a13bcd.jpg"
     }
   ],
   H5: [
