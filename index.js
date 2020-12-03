@@ -840,6 +840,10 @@ const userCases = {
     {
       name: "樊登读书",
       url: "https://user-images.githubusercontent.com/22906037/84597240-3de50200-ae95-11ea-8d3e-cd32dfc6d8da.png"
+    },
+    {
+      name:"乐日Day自习室",
+      url:"https://cloud-print-oss.oss-cn-beijing.aliyuncs.com/icon/2691606990168_.pic_hd.jpg"
     }
   ],
   移动端应用: [
