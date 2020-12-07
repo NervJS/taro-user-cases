@@ -687,6 +687,10 @@ const userCases = {
     {
       name: 'ZE SPEED',
       url: 'https://raw.githubusercontent.com/ljyljy0211/case/master/zespeed.jpeg'
+    },
+    {
+      name:"乐日Day自习室",
+      url:"https://user-images.githubusercontent.com/3080820/101306855-f312d880-3880-11eb-9ef8-512ed86aaf4b.jpg"
     }
   ],
   H5: [
