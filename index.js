@@ -691,6 +691,10 @@ const userCases = {
     {
       name:"乐日Day自习室",
       url:"https://user-images.githubusercontent.com/3080820/101306855-f312d880-3880-11eb-9ef8-512ed86aaf4b.jpg"
+    },
+    {
+      name: "逃大拿",
+      url: "https://qn-tao.yuandana.com/config/material/taodana.jpg"
     }
   ],
   H5: [
