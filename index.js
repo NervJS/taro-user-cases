@@ -1,6 +1,10 @@
 const userCases = {
   微信小程序: [
     {
+      name: "e代驾",
+      url: "https://pic.edaijia.cn/fdaf/587c38da9f8c4acbb3c438387f1f40e1.jpg"
+    },
+    {
       name: "京东购物",
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png"
     },
@@ -756,6 +760,10 @@ const userCases = {
     }
   ],
   支付宝小程序: [
+    {
+      name: "e代驾",
+      url: "https://pic.edaijia.cn/fdaf/e0405ea9ee5748dcb4d3a0ebe9a65b09.jpg"
+    },
     {
       name: "时光简纸",
       url:
