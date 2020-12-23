@@ -1,6 +1,10 @@
 const userCases = {
   微信小程序: [
     {
+      name: "智论文",
+      url: "https://resource-oss.papersmart.cn/images/qrCode/wxMp.jpeg"
+    },
+    {
       name: "金华惠民商城",
       url: "https://img11.360buyimg.com/ling/jfs/t1/148412/4/19631/99105/5fe2ec6bE60c6408f/08f3740299b87e16.jpg"
     },
@@ -874,6 +878,10 @@ const userCases = {
     }
   ],
   QQ小程序: [
+    {
+      name: "智论文",
+      url: "https://resource-oss.papersmart.cn/images/qrCode/qqMp.png"
+    },
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/qq_mp_qrcode.jpg"
