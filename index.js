@@ -2,7 +2,7 @@ const userCases = {
   微信小程序: [
     {
       name: "智论文",
-      url: "https://resource-oss.papersmart.cn/images/qrCode/wxMp.jpeg"
+      url: "https://img14.360buyimg.com/ling/jfs/t1/146255/9/19809/27760/5fe2ef2eE14a836fd/e20064d235617827.png"
     },
     {
       name: "金华惠民商城",
@@ -880,7 +880,7 @@ const userCases = {
   QQ小程序: [
     {
       name: "智论文",
-      url: "https://resource-oss.papersmart.cn/images/qrCode/qqMp.png"
+      url: "https://img20.360buyimg.com/ling/jfs/t1/149022/37/19672/24989/5fe2ef2eEaac9fd91/0808a8f19d616215.png"
     },
     {
       name: "袋小鼠爱编程",
