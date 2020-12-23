@@ -5,8 +5,12 @@ const userCases = {
       url: "https://resource-oss.papersmart.cn/images/qrCode/wxMp.jpeg"
     },
     {
+      name: "金华惠民商城",
+      url: "https://img11.360buyimg.com/ling/jfs/t1/148412/4/19631/99105/5fe2ec6bE60c6408f/08f3740299b87e16.jpg"
+    },
+    {
       name: "e代驾",
-      url: "https://pic.edaijia.cn/fdaf/587c38da9f8c4acbb3c438387f1f40e1.jpg"
+      url: "https://img11.360buyimg.com/ling/jfs/t1/150439/9/11985/49577/5fe2e9eaEb0723cef/4ff5a59fa8ccd1c0.jpg"
     },
     {
       name: "京东购物",
@@ -766,7 +770,7 @@ const userCases = {
   支付宝小程序: [
     {
       name: "e代驾",
-      url: "https://pic.edaijia.cn/fdaf/e0405ea9ee5748dcb4d3a0ebe9a65b09.jpg"
+      url: "https://img13.360buyimg.com/ling/jfs/t1/143485/7/19740/23365/5fe2eadcEcbf2c30f/02d7a8ae5cb545d8.png"
     },
     {
       name: "时光简纸",
