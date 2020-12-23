@@ -757,6 +757,10 @@ const userCases = {
     {
       name: "脑易安",
       url: "https://user-images.githubusercontent.com/3080820/98386727-80e58300-208b-11eb-8b1e-8d1256fef219.png"
+    },
+    {
+      name: "那天鸭",
+      url: "https://github.com/qier222/natianya-mini-program-preview/raw/master/images/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%A0%81.jpg"
     }
   ],
   支付宝小程序: [
