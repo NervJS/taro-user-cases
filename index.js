@@ -1,6 +1,10 @@
 const userCases = {
   微信小程序: [
     {
+      name: "金华惠民商城",
+      url: "https://testmall.jhsmk.com.cn/mall/resource/images/weappStatic/jhsmkweapp.jpg"
+    },
+    {
       name: "e代驾",
       url: "https://img11.360buyimg.com/ling/jfs/t1/150439/9/11985/49577/5fe2e9eaEb0723cef/4ff5a59fa8ccd1c0.jpg"
     },
