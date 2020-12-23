@@ -707,6 +707,15 @@ const userCases = {
     {
       name: "逃大拿",
       url: "https://user-images.githubusercontent.com/3080820/101858170-046f2400-3ba4-11eb-81dd-17b2d6cc1f6e.jpg"
+    },
+    {
+      name: "每日好心情",
+      url:
+        "https://user-images.githubusercontent.com/7972688/64514458-3cdadf00-d31d-11e9-8494-4262c6d4d565.jpg"
+    },
+    {
+      name: "那天鸭",
+      url: "https://img20.360buyimg.com/ling/jfs/t1/148877/5/19641/100074/5fe2f100Eddd76174/4b42ece5b521a785.jpg"
     }
   ],
   H5: [
@@ -754,21 +763,12 @@ const userCases = {
         "https://user-images.githubusercontent.com/7202516/58466807-06fa5c00-816d-11e9-81ec-9be385d8a4d1.png"
     },
     {
-      name: "每日好心情",
-      url:
-        "https://user-images.githubusercontent.com/7972688/64514458-3cdadf00-d31d-11e9-8494-4262c6d4d565.jpg"
-    },
-    {
       name: "极速打车",
       url: "https://user-images.githubusercontent.com/9129438/72401533-3bb43580-3787-11ea-8b34-f35f7c2d8d04.png"
     },
     {
       name: "脑易安",
       url: "https://user-images.githubusercontent.com/3080820/98386727-80e58300-208b-11eb-8b1e-8d1256fef219.png"
-    },
-    {
-      name: "那天鸭",
-      url: "https://github.com/qier222/natianya-mini-program-preview/raw/master/images/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%A0%81.jpg"
     }
   ],
   支付宝小程序: [
