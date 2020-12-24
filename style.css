@@ -34,6 +34,9 @@ body .index {
 table {
   width: 100%;
 }
+table td {
+  width: 12.5%;
+}
 
 h2 {
   padding-top: 50px;
