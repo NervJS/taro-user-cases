@@ -1539,7 +1539,7 @@ function renderTr(arr) {
       return `<tr>
         ${a
           .map(o => {
-            return `<td align="center">
+            return `<td style="text-align: center;vertical-align:top;">
                   <img class="${
                     o.url ? "" : "hidden"
                   }" height="80" width="80" src="${o.url}" />
