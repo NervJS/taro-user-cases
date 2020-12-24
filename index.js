@@ -1389,13 +1389,16 @@ const userCases = {
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/ios_app_qrcode.jpg",
-      framework: "",
-      taroVersion: "",
+      framework: "react",
+      taroVersion: "2",
       screenshot: []
     },
     {
       name: "仿网易严选",
-      url: "https://qr.api.cli.im/qr?data=https%253A%252F%252Fsnack.expo.io%252F%2540caiminxing%252Ftaro-yanxuan&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=ad14cc9c74800daec783744be81d68d8"
+      url: "https://qr.api.cli.im/qr?data=https%253A%252F%252Fsnack.expo.io%252F%2540caiminxing%252Ftaro-yanxuan&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=ad14cc9c74800daec783744be81d68d8",
+      framework: "react",
+      taroVersion: "2",
+      screenshot: []
     }
   ],
   QQ小程序: [
