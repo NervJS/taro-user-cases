@@ -1158,6 +1158,13 @@ const userCases = {
       framework: "",
       taroVersion: "",
       screenshot: []
+    },
+    {
+      name: "享瘦灵食岛",
+      url: "https://md-1256312109.cos.ap-beijing.myqcloud.com/uPic/gh_e9d13050155d_344%20(2).jpg",
+      framework: "react",
+      taroVersion: "3",
+      screenshot: []
     }
   ],
   H5: [
