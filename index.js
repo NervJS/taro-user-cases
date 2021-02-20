@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "有好券",
+      url: "https://github.com/gwt9502/youhaoquan/blob/main/screen/miniapp.jpg",
+      framework: "",
+      taroVersion: "3.0.21",
+      screenshot: []
+    },
+    {
       name: "智论文",
       url: "https://img14.360buyimg.com/ling/jfs/t1/146255/9/19809/27760/5fe2ef2eE14a836fd/e20064d235617827.png",
       framework: "",
