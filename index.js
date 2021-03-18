@@ -1329,6 +1329,13 @@ const userCases = {
       screenshot: []
     },
     {
+      name: "车主之家汽车报价",
+      url: "https://user-images.githubusercontent.com/3080820/111566896-fa7b4380-87d8-11eb-89cc-58901b0e69d7.png",
+      framework: "React",
+      taroVersion: "1.x",
+      screenshot: ["https://user-images.githubusercontent.com/3080820/111566969-25fe2e00-87d9-11eb-9644-e84b5eb965b4.jpeg"]
+    },
+    {
       name: "启信宝",
       url: "https://user-images.githubusercontent.com/38108442/54411078-fcf9bd00-4728-11e9-9e4d-c61f6ff43f86.png",
       framework: "",
