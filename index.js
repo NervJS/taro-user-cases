@@ -1248,6 +1248,13 @@ const userCases = {
       framework: "",
       taroVersion: "",
       screenshot: []
+    },
+    {
+      name: "出租车助老出行",
+      url: "https://static.didapinche.com/pics/g/6xtxf4q761zhulaochuxing.png",
+      framework: "",
+      taroVersion: "",
+      screenshot: []
     }
   ],
   支付宝小程序: [
