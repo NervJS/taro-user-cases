@@ -1172,7 +1172,14 @@ const userCases = {
       framework: "react",
       taroVersion: "3",
       screenshot: []
-    }
+    },
+    {
+      name: "有好券",
+      url: "https://github.com/gwt9502/youhaoquan/blob/main/screen/miniapp.jpg",
+      framework: "react",
+      taroVersion: "3.0.21",
+      screenshot: ['https://github.com/gwt9502/youhaoquan/blob/main/screen/course.gif']
+    },
   ],
   H5: [
     {
