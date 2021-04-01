@@ -1523,6 +1523,13 @@ const userCases = {
       framework: "",
       taroVersion: "",
       screenshot: []
+    },
+    {
+      name: "出租车智慧出行",
+      url: "https://static.didapinche.com/pics/g/z8ckf6fp47taxiQR.jpg",
+      framework: "",
+      taroVersion: "2.3.7",
+      screenshot: []
     }
   ]
 };
