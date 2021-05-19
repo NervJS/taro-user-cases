@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "记录体重Pro",
+      url: "http://cdn.taoquns.com/gh_f43b79ff933f_258.jpg",
+      framework: "",
+      taroVersion: "",
+      screenshot: []
+    },
+    {
       name: "吴中博物馆",
       url: "https://raw.githubusercontent.com/jay4q/blog/master/public/prj_weapp_wuzhong.jpg",
       framework: "",
