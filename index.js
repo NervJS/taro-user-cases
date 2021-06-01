@@ -1179,7 +1179,21 @@ const userCases = {
       framework: "react",
       taroVersion: "3.0.21",
       screenshot: ['https://github.com/gwt9502/youhaoquan/blob/main/screen/course.gif']
+    }, 
+    {
+      name: "出租车助老出行",
+      url: "https://static.didapinche.com/pics/g/6xtxf4q761zhulaochuxing.png",
+      framework: "",
+      taroVersion: "",
+      screenshot: []
     },
+    {
+      name: "出租车智慧出行",
+      url: "https://static.didapinche.com/pics/g/z8ckf6fp47taxiQR.jpg",
+      framework: "",
+      taroVersion: "2.3.7",
+      screenshot: []
+    }
   ],
   H5: [
     {
@@ -1252,13 +1266,6 @@ const userCases = {
     {
       name: "脑易安",
       url: "https://user-images.githubusercontent.com/3080820/98386727-80e58300-208b-11eb-8b1e-8d1256fef219.png",
-      framework: "",
-      taroVersion: "",
-      screenshot: []
-    },
-    {
-      name: "出租车助老出行",
-      url: "https://static.didapinche.com/pics/g/6xtxf4q761zhulaochuxing.png",
       framework: "",
       taroVersion: "",
       screenshot: []
@@ -1529,13 +1536,6 @@ const userCases = {
       url: "https://lzp.tianhuichang.xyz/mp_qr_code.jpg",
       framework: "",
       taroVersion: "",
-      screenshot: []
-    },
-    {
-      name: "出租车智慧出行",
-      url: "https://static.didapinche.com/pics/g/z8ckf6fp47taxiQR.jpg",
-      framework: "",
-      taroVersion: "2.3.7",
       screenshot: []
     }
   ]
