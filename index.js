@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "智慧展业",
+      url: "https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/cases_智慧展业.png",
+      framework: "react",
+      taroVersion: "3.1.5",
+      screenshot: ["https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/case_screenshot.jpeg", "https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/case2_screenshot.jpeg", "https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/case3_screenshot.jpeg"]
+    },
+    {
       name: "记录体重Pro",
       url: "http://cdn.taoquns.com/gh_f43b79ff933f_258.jpg",
       framework: "",
@@ -40,6 +47,27 @@ const userCases = {
       url: "http://storage.jd.com/taro-resource/cases/京东购物.png",
       framework: "react",
       taroVersion: "1.3.x",
+      screenshot: []
+    },
+    {
+      name: "迅蜂商祺",
+      url: "https://xf-auth.oss-cn-shanghai.aliyuncs.com/applet/gh_3ae6fa1c17c1_1280.jpg",
+      framework: "React",
+      taroVersion: "3.x",
+      screenshot: []
+    },
+    {
+      name: "迅蜂优选",
+      url: "https://xf-auth.oss-cn-shanghai.aliyuncs.com/applet/gh_4c740728e82e_1280.jpg",
+      framework: "React",
+      taroVersion: "2.x",
+      screenshot: []
+    },
+    {
+      name: "迅蜂商城",
+      url: "https://xf-auth.oss-cn-shanghai.aliyuncs.com/applet/gh_17a20461afb7_1280.jpg",
+      framework: "React",
+      taroVersion: "2.x",
       screenshot: []
     },
     {
