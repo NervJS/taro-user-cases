@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "智慧展业",
+      url: "https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/cases_智慧展业.png",
+      framework: "react",
+      taroVersion: "3.1.5",
+      screenshot: ["https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/case_screenshot.jpeg", "https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/case2_screenshot.jpeg", "https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/case3_screenshot.jpeg"]
+    },
+    {
       name: "记录体重Pro",
       url: "http://cdn.taoquns.com/gh_f43b79ff933f_258.jpg",
       framework: "",
