@@ -50,6 +50,27 @@ const userCases = {
       screenshot: []
     },
     {
+      name: "迅蜂商祺",
+      url: "https://xf-auth.oss-cn-shanghai.aliyuncs.com/applet/gh_3ae6fa1c17c1_1280.jpg",
+      framework: "React",
+      taroVersion: "3.x",
+      screenshot: []
+    },
+    {
+      name: "迅蜂优选",
+      url: "https://xf-auth.oss-cn-shanghai.aliyuncs.com/applet/gh_4c740728e82e_1280.jpg",
+      framework: "React",
+      taroVersion: "2.x",
+      screenshot: []
+    },
+    {
+      name: "迅蜂商城",
+      url: "https://xf-auth.oss-cn-shanghai.aliyuncs.com/applet/gh_17a20461afb7_1280.jpg",
+      framework: "React",
+      taroVersion: "2.x",
+      screenshot: []
+    },
+    {
       name: "TOPLIFE",
       url: "http://storage.jd.com/taro-resource/cases/TOPLIFE.png",
       framework: "react",
