@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "瑞克和莫蒂wiki",
+      url: "http://rnwiki-bin.cavano.vip/weapp/2d_code.jpg",
+      framework: "react",
+      taroVersion: "3.2.8",
+      screenshot: ["http://rnwiki-bin.cavano.vip/weapp/weapp1.jpg", "http://rnwiki-bin.cavano.vip/weapp/weapp2.jpg", "http://rnwiki-bin.cavano.vip/weapp/weapp3.jpg", "http://rnwiki-bin.cavano.vip/weapp/weapp4.jpg"]
+    },
+    {
       name: "智慧展业",
       url: "https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/cases_智慧展业.png",
       framework: "react",
@@ -1211,6 +1218,13 @@ const userCases = {
   ],
   H5: [
     {
+      name: "瑞克和莫蒂wiki",
+      url: "http://rnwiki-bin.cavano.vip/h5/2d_code.png",
+      framework: "react",
+      taroVersion: "3.2.8",
+      screenshot: ["http://rnwiki-bin.cavano.vip/rn/rn1.jpg", "http://rnwiki-bin.cavano.vip/rn/rn2.jpg", "http://rnwiki-bin.cavano.vip/rn/rn3.jpg", "http://rnwiki-bin.cavano.vip/rn/rn4.jpg"]
+    },
+    {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/h5_web_qrcode.png",
       framework: "",
@@ -1442,6 +1456,13 @@ const userCases = {
     }
   ],
   移动端应用: [
+    {
+      name: "瑞克和莫蒂wiki",
+      url: "http://rnwiki-bin.cavano.vip/rn/2d_code.png",
+      framework: "react",
+      taroVersion: "3.2.8",
+      screenshot: ["http://rnwiki-bin.cavano.vip/rn/rn1.jpg", "http://rnwiki-bin.cavano.vip/rn/rn2.jpg", "http://rnwiki-bin.cavano.vip/rn/rn3.jpg", "http://rnwiki-bin.cavano.vip/rn/rn4.jpg"]
+    },
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/ios_app_qrcode.jpg",
