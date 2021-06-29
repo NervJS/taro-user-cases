@@ -1087,8 +1087,8 @@ const userCases = {
     {
       name: "隐私短信",
       url: "https://user-images.githubusercontent.com/23022715/93010097-1e0bca00-f5bb-11ea-9028-d723e0982a2e.png",
-      framework: "",
-      taroVersion: "",
+      framework: "Vue",
+      taroVersion: "3.0.26",
       screenshot: []
     },
     {
