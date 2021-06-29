@@ -36,13 +36,6 @@ const userCases = {
       screenshot: []
     },
     {
-      name: "吴中博物馆",
-      url: "https://raw.githubusercontent.com/jay4q/blog/master/public/prj_weapp_wuzhong.jpg",
-      framework: "",
-      taroVersion: "",
-      screenshot: []
-    },
-    {
       name: "智论文",
       url: "https://img14.360buyimg.com/ling/jfs/t1/146255/9/19809/27760/5fe2ef2eE14a836fd/e20064d235617827.png",
       framework: "",
