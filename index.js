@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "瑞克和莫蒂wiki",
+      url: "http://rnwiki-bin.cavano.vip/weapp/2d_code.jpg",
+      framework: "react",
+      taroVersion: "3.2.8",
+      screenshot: ["http://rnwiki-bin.cavano.vip/weapp/weapp1.jpg", "http://rnwiki-bin.cavano.vip/weapp/weapp2.jpg", "http://rnwiki-bin.cavano.vip/weapp/weapp3.jpg", "http://rnwiki-bin.cavano.vip/weapp/weapp4.jpg"]
+    },
+    {
       name: "举手报名专业版",
       url: "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/appletCode.jpg?sign=dc46f268414c99e2685c9948b09b1da5&t=1624786112",
       framework: "react",
@@ -1246,6 +1253,13 @@ const userCases = {
   ],
   H5: [
     {
+      name: "瑞克和莫蒂wiki",
+      url: "http://rnwiki-bin.cavano.vip/h5/2d_code.png",
+      framework: "react",
+      taroVersion: "3.2.8",
+      screenshot: ["http://rnwiki-bin.cavano.vip/rn/rn1.jpg", "http://rnwiki-bin.cavano.vip/rn/rn2.jpg", "http://rnwiki-bin.cavano.vip/rn/rn3.jpg", "http://rnwiki-bin.cavano.vip/rn/rn4.jpg"]
+    },
+    {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/h5_web_qrcode.png",
       framework: "",
@@ -1477,6 +1491,13 @@ const userCases = {
     }
   ],
   移动端应用: [
+    {
+      name: "瑞克和莫蒂wiki",
+      url: "http://rnwiki-bin.cavano.vip/rn/2d_code.png",
+      framework: "react",
+      taroVersion: "3.2.8",
+      screenshot: ["http://rnwiki-bin.cavano.vip/rn/rn1.jpg", "http://rnwiki-bin.cavano.vip/rn/rn2.jpg", "http://rnwiki-bin.cavano.vip/rn/rn3.jpg", "http://rnwiki-bin.cavano.vip/rn/rn4.jpg"]
+    },
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/ios_app_qrcode.jpg",
