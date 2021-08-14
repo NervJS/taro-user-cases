@@ -8,6 +8,13 @@ const userCases = {
       screenshot: ['https://7765-wedding-wxapp-1302175274.tcb.qcloud.la/wedding/imgs/preview.jpg']
     },
     {
+      name: "企鹅体育",
+      url: "https://user-images.githubusercontent.com/13015125/126122500-4104a979-b376-461f-8ecc-266b3ec9a095.png",
+      framework: "react",
+      taroVersion: "3.2.10",
+      screenshot: []
+    },
+    {
       name: "瑞克和莫蒂wiki",
       url: "http://rnwiki-bin.cavano.vip/weapp/2d_code.jpg",
       framework: "react",
