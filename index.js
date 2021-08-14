@@ -1,5 +1,12 @@
 const userCases = {
   微信小程序: [
+     {
+      name: "趣婚礼",
+      url: "https://user-images.githubusercontent.com/3080820/97129834-d7dd8500-177a-11eb-9c69-24303e8daa8f.jpeg",
+      framework: "react",
+      taroVersion: "2.1.3",
+      screenshot: ['https://7765-wedding-wxapp-1302175274.tcb.qcloud.la/wedding/imgs/preview.jpg']
+    },
     {
       name: "瑞克和莫蒂wiki",
       url: "http://rnwiki-bin.cavano.vip/weapp/2d_code.jpg",
@@ -1101,13 +1108,6 @@ const userCases = {
     {
       name: "教师职位库",
       url: "https://user-images.githubusercontent.com/3080820/97129731-9b118e00-177a-11eb-8561-8365608dc5e7.jpg",
-      framework: "",
-      taroVersion: "",
-      screenshot: []
-    },
-    {
-      name: "趣婚礼",
-      url: "https://user-images.githubusercontent.com/3080820/97129834-d7dd8500-177a-11eb-9c69-24303e8daa8f.jpeg",
       framework: "",
       taroVersion: "",
       screenshot: []
