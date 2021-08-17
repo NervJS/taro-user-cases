@@ -1249,6 +1249,13 @@ const userCases = {
       framework: "",
       taroVersion: "2.3.7",
       screenshot: []
+    },
+    {
+      name: "彗星密码本",
+      url: "https://static.didapinche.com/pics/g/z8ckf6fp47taxiQR.jpg",
+      framework: "https://user-images.githubusercontent.com/46584765/129651481-30d17dea-4d58-4b52-b9fe-4903e91b7546.png",
+      taroVersion: "3",
+      screenshot: []
     }
   ],
   H5: [
