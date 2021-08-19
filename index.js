@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
      {
+      name: "娱当家",
+      url: "https://raw.githubusercontent.com/3lang3/template-taro/main/qrcode-ydj-mp.png",
+      framework: "react",
+      taroVersion: "3.3.0",
+      screenshot: ['https://raw.githubusercontent.com/3lang3/template-taro/main/screenshot-index.jpeg, https://raw.githubusercontent.com/3lang3/template-taro/main/screenshot-play.jpeg']
+    },
+    {
       name: "趣婚礼",
       url: "https://user-images.githubusercontent.com/3080820/97129834-d7dd8500-177a-11eb-9c69-24303e8daa8f.jpeg",
       framework: "react",
