@@ -1251,6 +1251,13 @@ const userCases = {
       screenshot: []
     },
     {
+      name: "彗星密码本",
+      url: "https://user-images.githubusercontent.com/46584765/129651481-30d17dea-4d58-4b52-b9fe-4903e91b7546.png",
+      framework: "react",
+      taroVersion: "3",
+      screenshot: []
+    },
+    {
       name: "布谷妈妈免费问",
       url: "https://appimg.doctopia.com.cn/weapp/bugu_weapp.jpeg",
       framework: "",
