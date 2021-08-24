@@ -1256,6 +1256,13 @@ const userCases = {
       framework: "",
       taroVersion: "3.3.0",
       screenshot: []
+    },
+    {
+      name: "循环英语",
+      url: "https://user-images.githubusercontent.com/13211110/130433339-6314462a-6cfb-4810-ba90-1cb460cbf61b.jpg",
+      framework: "React",
+      taroVersion: "3",
+      screenshot: []
     }
   ],
   H5: [
