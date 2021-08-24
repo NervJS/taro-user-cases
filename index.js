@@ -1256,6 +1256,20 @@ const userCases = {
       framework: "react",
       taroVersion: "3",
       screenshot: []
+    },
+    {
+      name: "布谷妈妈免费问",
+      url: "https://appimg.doctopia.com.cn/weapp/bugu_weapp.jpeg",
+      framework: "",
+      taroVersion: "3.3.0",
+      screenshot: []
+    },
+    {
+      name: "循环英语",
+      url: "https://user-images.githubusercontent.com/13211110/130433339-6314462a-6cfb-4810-ba90-1cb460cbf61b.jpg",
+      framework: "React",
+      taroVersion: "3",
+      screenshot: []
     }
   ],
   H5: [
@@ -1517,6 +1531,13 @@ const userCases = {
       url: "https://qr.api.cli.im/qr?data=https%253A%252F%252Fsnack.expo.io%252F%2540caiminxing%252Ftaro-yanxuan&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=ad14cc9c74800daec783744be81d68d8",
       framework: "react",
       taroVersion: "2",
+      screenshot: []
+    },
+    {
+      name: "布谷妈妈",
+      url: "https://apps.doctopia.com.cn/pc-brand-home/?channel=taro_cases",
+      framework: "react",
+      taroVersion: "3.3.0",
       screenshot: []
     }
   ],
