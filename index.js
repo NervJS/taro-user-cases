@@ -1277,7 +1277,11 @@ const userCases = {
       framework: "React",
       taroVersion: "3",
       screenshot: []
-    }
+    },
+    {
+      name: '今天淦什么',
+      url: 'https://qiniu.xshwy.cn/qrcode_taro.png'
+    }    
   ],
   H5: [
     {
