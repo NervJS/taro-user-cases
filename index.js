@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
      {
+      name: "AXG网球赛事",
+      url: "https://51axg.com/images/logo/gh-258.jpg",
+      framework: "",
+      taroVersion: "2.0.7",
+      screenshot: []
+    },
+     {
       name: "娱当家",
       url: "https://user-images.githubusercontent.com/7098719/129994667-cc936be3-9210-4a86-ab41-37e52b0d2477.png",
       framework: "react",
@@ -86,21 +93,28 @@ const userCases = {
     },
     {
       name: "迅蜂商祺",
-      url: "https://xf-auth.oss-cn-shanghai.aliyuncs.com/applet/gh_3ae6fa1c17c1_1280.jpg",
+      url: "https://xf-qrcode.oss-cn-chengdu.aliyuncs.com/applet/gh_3ae6fa1c17c1.jpg",
       framework: "React",
       taroVersion: "3.x",
       screenshot: []
     },
     {
       name: "迅蜂优选",
-      url: "https://xf-auth.oss-cn-shanghai.aliyuncs.com/applet/gh_4c740728e82e_1280.jpg",
+      url: "https://xf-qrcode.oss-cn-chengdu.aliyuncs.com/applet/gh_4c740728e82e.jpg",
       framework: "React",
       taroVersion: "2.x",
       screenshot: []
     },
     {
       name: "迅蜂商城",
-      url: "https://xf-auth.oss-cn-shanghai.aliyuncs.com/applet/gh_17a20461afb7_1280.jpg",
+      url: "https://xf-qrcode.oss-cn-chengdu.aliyuncs.com/applet/gh_17a20461afb7.jpg",
+      framework: "React",
+      taroVersion: "2.x",
+      screenshot: []
+    },
+    {
+      name: "圈圈蜂抢",
+      url: "https://xf-qrcode.oss-cn-chengdu.aliyuncs.com/applet/gh_6ae3a47e02b8.jpg",
       framework: "React",
       taroVersion: "2.x",
       screenshot: []
@@ -1242,7 +1256,7 @@ const userCases = {
       framework: "react",
       taroVersion: "3.0.21",
       screenshot: ['https://github.com/gwt9502/youhaoquan/blob/main/screen/course.gif']
-    }, 
+    },
     {
       name: "出租车助老出行",
       url: "https://static.didapinche.com/pics/g/6xtxf4q761zhulaochuxing.png",
@@ -1280,8 +1294,18 @@ const userCases = {
     },
     {
       name: '今天淦什么',
-      url: 'https://qiniu.xshwy.cn/qrcode_taro.png'
-    }    
+      url: 'https://qiniu.xshwy.cn/qrcode_taro.png',
+      framework: "",
+      taroVersion: "",
+      screenshot: []
+    },   
+    {
+      name: "工具箱GeekNiu",
+      url: "https://raw.githubusercontent.com/zouzonghua/ImageHosting/main/img/toolbox.jpg",
+      framework: "react",
+      taroVersion: "3.3.3",
+      screenshot: []
+    }
   ],
   H5: [
     {
