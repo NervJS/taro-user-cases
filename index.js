@@ -1548,6 +1548,13 @@ const userCases = {
   ],
   移动端应用: [
     {
+      name: "Taro Playground",
+      url: "https://wos.58cdn.com.cn/IjGfEdCbIlr/ishare/pic_d3137b5937U5d1XdWcU735Xd7b5a5a37.png",
+      framework: "react",
+      taroVersion: "3.3.12",
+      screenshot: []
+    },
+    {
       name: "瑞克和莫蒂wiki",
       url: "http://rnwiki-bin.cavano.vip/rn/2d_code.png",
       framework: "react",
