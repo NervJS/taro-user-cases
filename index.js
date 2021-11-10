@@ -1555,6 +1555,13 @@ const userCases = {
       screenshot: []
     },
     {
+      name: "美事生活",
+      url: "https://i.loli.net/2021/11/10/2VxIJNWYr6GnXwH.png",
+      framework: "react",
+      taroVersion: "3.2.8",
+      screenshot: []
+    },
+    {
       name: "瑞克和莫蒂wiki",
       url: "http://rnwiki-bin.cavano.vip/rn/2d_code.png",
       framework: "react",
