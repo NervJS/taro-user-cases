@@ -1,20 +1,27 @@
 const userCases = {
   微信小程序: [
     {
+      name: "设域精选",
+      url: "https://sheyu-1306339461.cos.ap-shanghai.myqcloud.com/miniprogram/sheyujingx_code.jpg",
+      framework: "react",
+      taroVersion: "3.4.3",
+      screenshot: []
+    },
+    {
       name: "九机商城",
       url: "https://img.9xun.com/newstatic/18655/041d0c9a4cc53e83.jpg",
       framework: "vue3",
       taroVersion: "3.3.14",
       screenshot: []
     },
-     {
+    {
       name: "AXG网球赛事",
       url: "https://51axg.com/images/logo/gh-258.jpg",
       framework: "",
       taroVersion: "2.0.7",
       screenshot: []
     },
-     {
+    {
       name: "娱当家",
       url: "https://user-images.githubusercontent.com/7098719/129994667-cc936be3-9210-4a86-ab41-37e52b0d2477.png",
       framework: "react",
@@ -48,13 +55,13 @@ const userCases = {
       framework: "react",
       taroVersion: "1.3.4",
       screenshot: ["https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot.jpg?sign=f9a9d99fbfd944427aaf7d6f67f4c3da&t=1624786280",
-                  "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot2.jpg?sign=c96d432a7f5427b5dc7c0d1449bd57bb&t=1624786927",
-                  "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot3.jpg?sign=8c31d390e697059a460ca71168ba7a69&t=1624786947",
-                  "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot4.jpg?sign=36902a0322e119a15c034f1f4162c599&t=1624786969",
-                  "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot5.jpg?sign=6b408679a29dd269cdcd83a64853bc70&t=1624786983",
-                  "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot6.jpg?sign=039ebc82f6abbd3ae8a43a4f0c370059&t=1624787005",
-                  "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot7.jpg?sign=77d347031b78d82c334158bd7d566916&t=1624787018",
-                  "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot8.jpg?sign=0ed238759c79be88ff86f54af32a2a4d&t=1624787030"]
+        "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot2.jpg?sign=c96d432a7f5427b5dc7c0d1449bd57bb&t=1624786927",
+        "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot3.jpg?sign=8c31d390e697059a460ca71168ba7a69&t=1624786947",
+        "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot4.jpg?sign=36902a0322e119a15c034f1f4162c599&t=1624786969",
+        "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot5.jpg?sign=6b408679a29dd269cdcd83a64853bc70&t=1624786983",
+        "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot6.jpg?sign=039ebc82f6abbd3ae8a43a4f0c370059&t=1624787005",
+        "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot7.jpg?sign=77d347031b78d82c334158bd7d566916&t=1624787018",
+        "https://6261-baomingpro-1300497647.tcb.qcloud.la/StaticPicture/baomingScreenshot8.jpg?sign=0ed238759c79be88ff86f54af32a2a4d&t=1624787030"]
     },
     {
       name: "智慧展业",
@@ -1223,8 +1230,8 @@ const userCases = {
       url: 'https://raw.githubusercontent.com/ljyljy0211/case/master/zespeed.jpeg'
     },
     {
-      name:"乐日Day自习室",
-      url:"https://user-images.githubusercontent.com/3080820/101306855-f312d880-3880-11eb-9ef8-512ed86aaf4b.jpg",
+      name: "乐日Day自习室",
+      url: "https://user-images.githubusercontent.com/3080820/101306855-f312d880-3880-11eb-9ef8-512ed86aaf4b.jpg",
       framework: "",
       taroVersion: "",
       screenshot: []
@@ -1305,7 +1312,7 @@ const userCases = {
       framework: "",
       taroVersion: "",
       screenshot: []
-    },   
+    },
     {
       name: "工具箱GeekNiu",
       url: "https://raw.githubusercontent.com/zouzonghua/ImageHosting/main/img/toolbox.jpg",
@@ -1663,7 +1670,7 @@ const userCases = {
     },
 
   ],
-    字节跳动小程序: [
+  字节跳动小程序: [
     {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/tt_mp_qrcode.jpg",
@@ -1713,7 +1720,7 @@ function renderCases(cases) {
   }).join('')
   navhtml = `<div class='grid_c1 app_nav'>${navhtml}</div>`
 
-  var casehtml =  Object.keys(cases)
+  var casehtml = Object.keys(cases)
     .map(key => {
       return `
       <h2 id=${key}>${key}</h2>
@@ -1739,9 +1746,8 @@ function renderTr(arr) {
         ${a
           .map(o => {
             return `<td style="text-align: center;vertical-align:top;">
-                  <img class="${
-                    o.url ? "" : "hidden"
-                  }" height="80" width="80" src="${o.url}" />
+                  <img class="${o.url ? "" : "hidden"
+              }" height="80" width="80" src="${o.url}" />
                   <p class="${o.url ? "" : "hidden"}">${o.name}</p>
                   <p class="${o.framework ? "" : "hidden"}">框架: ${o.framework}</p>
                   <p class="${o.taroVersion ? "" : "hidden"}">Taro：${o.taroVersion}</p>
