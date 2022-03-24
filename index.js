@@ -1319,6 +1319,13 @@ const userCases = {
       framework: "react",
       taroVersion: "3.3.3",
       screenshot: []
+    },   
+    {
+      name: "汉源餐饮教育",
+      url: "https://gitee.com/ssdmtank/self_picgo_resp/raw/master/img/mini_logo.jpg",
+      framework: "react",
+      taroVersion: "3.3.2",
+      screenshot: []
     }
   ],
   H5: [
