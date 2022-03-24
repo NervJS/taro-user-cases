@@ -8,6 +8,13 @@ const userCases = {
       screenshot: []
     },
     {
+      name: "微免租房",
+      url: "https://user-images.githubusercontent.com/99629813/153817475-3179fe5e-8e40-4932-9db6-ecdb2486fcbf.jpg",
+      framework: "react",
+      taroVersion: "2",
+      screenshot: ["https://user-images.githubusercontent.com/99629813/153817502-dc6c3912-0986-436a-9eb0-fbd2aff40f3d.png"]
+    },
+    {
       name: "九机商城",
       url: "https://img.9xun.com/newstatic/18655/041d0c9a4cc53e83.jpg",
       framework: "vue3",
@@ -1318,6 +1325,13 @@ const userCases = {
       url: "https://raw.githubusercontent.com/zouzonghua/ImageHosting/main/img/toolbox.jpg",
       framework: "react",
       taroVersion: "3.3.3",
+      screenshot: []
+    },   
+    {
+      name: "汉源餐饮教育",
+      url: "https://gitee.com/ssdmtank/self_picgo_resp/raw/master/img/mini_logo.jpg",
+      framework: "react",
+      taroVersion: "3.3.2",
       screenshot: []
     }
   ],
