@@ -1333,6 +1333,13 @@ const userCases = {
       framework: "react",
       taroVersion: "3.3.2",
       screenshot: []
+    },
+    {
+      name: "猪八戒网+",
+      url: "https://user-images.githubusercontent.com/29394933/160967154-0fa29821-2218-4311-b981-6ee7cfe1f35a.png",
+      framework: "react",
+      taroVersion: "1.3.18",
+      screenshot: []
     }
   ],
   H5: [
@@ -1493,6 +1500,13 @@ const userCases = {
     {
       name: '吉事办',
       url: 'https://user-images.githubusercontent.com/35049517/93738483-7b85c380-fc18-11ea-8266-3c239fd96b6c.jpg'
+    },
+    {
+      name: "猪八戒网+",
+      url: "https://user-images.githubusercontent.com/29394933/160986749-12e22569-c849-4637-82e1-f6d630139ce6.png",
+      framework: "react",
+      taroVersion: "1.3.18",
+      screenshot: []
     }
   ],
   百度智能小程序: [
@@ -1571,6 +1585,13 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/22906037/84597240-3de50200-ae95-11ea-8d3e-cd32dfc6d8da.png",
       framework: "",
       taroVersion: "",
+      screenshot: []
+    },
+    {
+      name: "猪八戒网+",
+      url: "https://user-images.githubusercontent.com/29394933/160967674-56308b61-f94e-4228-b30a-83225b3d8b59.png",
+      framework: "react",
+      taroVersion: "1.3.18",
       screenshot: []
     }
   ],
@@ -1725,6 +1746,13 @@ const userCases = {
       url: "https://lzp.tianhuichang.xyz/mp_qr_code.jpg",
       framework: "",
       taroVersion: "",
+      screenshot: []
+    },
+    {
+      name: "猪八戒网+",
+      url: "https://user-images.githubusercontent.com/29394933/160986874-1884d4cf-9b78-4039-85de-5e74694edce4.png",
+      framework: "react",
+      taroVersion: "1.3.18",
       screenshot: []
     }
   ]
