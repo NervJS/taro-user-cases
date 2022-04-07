@@ -1591,7 +1591,7 @@ const userCases = {
     },
     {
       name: "1314合婚",
-      url: "https://github.com/Jidahan/1314hehunImg/blob/master/WX20220407-103545%402x.png",
+      url: "https://raw.githubusercontent.com/Jidahan/1314hehunImg/master/WX20220407-103545%402x.png",
       framework: "react",
       taroVersion: "3.3.9",
       screenshot: []
