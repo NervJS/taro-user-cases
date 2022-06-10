@@ -1340,6 +1340,13 @@ const userCases = {
       framework: "react",
       taroVersion: "1.3.18",
       screenshot: []
+    },
+    {
+      name: "活字印刷打印",
+      url: "https://raw.githubusercontent.com/hzm0321/picgo/master/img/20220608195005.png",
+      framework: "react",
+      taroVersion: "3.4.7",
+      screenshot: []
     }
   ],
   H5: [
