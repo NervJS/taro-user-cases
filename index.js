@@ -8,6 +8,13 @@ const userCases = {
       screenshot: []
     },
     {
+      name: "视频去水印助手",
+      url: "https://s1.ax1x.com/2022/08/12/vJz1ud.jpg",
+      framework: "react",
+      taroVersion: "3.5.2",
+      screenshot: []
+    },
+    {
       name: "设域精选",
       url: "https://sheyu-1306339461.cos.ap-shanghai.myqcloud.com/miniprogram/sheyujingx_code.jpg",
       framework: "react",
@@ -1347,7 +1354,14 @@ const userCases = {
       framework: "react",
       taroVersion: "1.3.18",
       screenshot: []
-    }
+    },
+    {
+      name: "短视频下载助手极速版",
+      url: "https://s1.ax1x.com/2022/08/12/vJzt4f.jpg",
+      framework: "react",
+      taroVersion: "3.5.2",
+      screenshot: []
+    },
   ],
   H5: [
     {
@@ -1723,8 +1737,7 @@ const userCases = {
       framework: "",
       taroVersion: "",
       screenshot: []
-    },
-
+    }
   ],
   字节跳动小程序: [
     {
