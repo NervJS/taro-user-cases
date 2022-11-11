@@ -1347,6 +1347,13 @@ const userCases = {
       framework: "react",
       taroVersion: "1.3.18",
       screenshot: []
+    },
+    {
+      name: "小驴通-灵活就业社区",
+      url: "https://xlt-file.oss-cn-shanghai.aliyuncs.com/xlt-5a089cf088b9ea048dcb7c1b73fb1d84.jpg",
+      framework: "react",
+      taroVersion: "3.5.7",
+      screenshot: []
     }
   ],
   H5: [
