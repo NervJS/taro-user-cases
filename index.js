@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "简小记",
+      url: "https://img.briefnote.cn/8.31171a22610d8-4b5.a3c05caac4d4",
+      framework: "react",
+      taroVersion: "3.2.8",
+      screenshot: []
+    },
+    {
       name: "记记日子",
       url: "https://user-images.githubusercontent.com/23056574/192472794-f89a658d-01c5-42c2-9c00-4fc6ebabb2d8.png",
       framework: "react",
