@@ -8,6 +8,20 @@ const userCases = {
       screenshot: []
     },
     {
+      name: "记记日子",
+      url: "https://user-images.githubusercontent.com/23056574/192472794-f89a658d-01c5-42c2-9c00-4fc6ebabb2d8.png",
+      framework: "react",
+      taroVersion: "3.5.0",
+      screenshot: []
+    },
+    {
+      name: "快找人",
+      url: "https://user-images.githubusercontent.com/22420/181405107-797e2dcf-5038-4b77-9e4a-f796c34db3f9.jpg",
+      framework: "react",
+      taroVersion: "3.5.0",
+      screenshot: []
+    },
+    {
       name: "设域精选",
       url: "https://sheyu-1306339461.cos.ap-shanghai.myqcloud.com/miniprogram/sheyujingx_code.jpg",
       framework: "react",
@@ -1346,6 +1360,13 @@ const userCases = {
       url: "https://user-images.githubusercontent.com/29394933/160967154-0fa29821-2218-4311-b981-6ee7cfe1f35a.png",
       framework: "react",
       taroVersion: "1.3.18",
+      screenshot: []
+    },
+    {
+      name: "小驴通-灵活就业社区",
+      url: "https://xlt-file.oss-cn-shanghai.aliyuncs.com/xlt-5a089cf088b9ea048dcb7c1b73fb1d84.jpg",
+      framework: "react",
+      taroVersion: "3.5.7",
       screenshot: []
     }
   ],
