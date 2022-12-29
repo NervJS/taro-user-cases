@@ -1,6 +1,27 @@
 const userCases = {
   微信小程序: [
     {
+      name: "简小记",
+      url: "https://img.briefnote.cn/8.31171a22610d8-4b5.a3c05caac4d4",
+      framework: "react",
+      taroVersion: "3.2.8",
+      screenshot: []
+    },
+    {
+      name: "记记日子",
+      url: "https://user-images.githubusercontent.com/23056574/192472794-f89a658d-01c5-42c2-9c00-4fc6ebabb2d8.png",
+      framework: "react",
+      taroVersion: "3.5.0",
+      screenshot: []
+    },
+    {
+      name: "快找人",
+      url: "https://user-images.githubusercontent.com/22420/181405107-797e2dcf-5038-4b77-9e4a-f796c34db3f9.jpg",
+      framework: "react",
+      taroVersion: "3.5.0",
+      screenshot: []
+    },
+    {
       name: "设域精选",
       url: "https://sheyu-1306339461.cos.ap-shanghai.myqcloud.com/miniprogram/sheyujingx_code.jpg",
       framework: "react",
@@ -1342,10 +1363,18 @@ const userCases = {
       screenshot: []
     },
     {
+
       name: "活字印刷打印",
       url: "https://raw.githubusercontent.com/hzm0321/picgo/master/img/20220608195005.png",
       framework: "react",
       taroVersion: "3.4.7",
+      screenshot: []
+    },
+    {
+      name: "小驴通-灵活就业社区",
+      url: "https://xlt-file.oss-cn-shanghai.aliyuncs.com/xlt-5a089cf088b9ea048dcb7c1b73fb1d84.jpg",
+      framework: "react",
+      taroVersion: "3.5.7",
       screenshot: []
     }
   ],
