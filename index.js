@@ -1459,6 +1459,13 @@ const userCases = {
       framework: "",
       taroVersion: "",
       screenshot: []
+    },
+    {
+      name: "宏观指数",
+      url: "https://raw.githubusercontent.com/zuoyouxuan/jte/master/gh_2f402ff7fa65_258.jpg",
+      framework: "taro",
+      taroVersion: "3.5.11",
+      screenshot: []
     }
   ],
   支付宝小程序: [
