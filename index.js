@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+    name: "we重邮",
+    url: "https://raw.githubusercontent.com/cheerioInf/public-images/master/202305101147734.png",
+    framework: "react",
+    taroVersion: "3.5.7",
+    screenshot: ["https://raw.githubusercontent.com/cheerioInf/public-images/master/0.png", "https://raw.githubusercontent.com/cheerioInf/public-images/master/510B59A725A1874611796EE54A88C6C8.png"]
+    },
+    {
       name: "简小记",
       url: "https://img.briefnote.cn/8.31171a22610d8-4b5.a3c05caac4d4",
       framework: "react",
