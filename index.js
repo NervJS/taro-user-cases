@@ -1,6 +1,17 @@
 const userCases = {
   微信小程序: [
     {
+      name: "baby喂养记录",
+      url: "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F3EAC2DC0-B37B-473e-9968-DA07749A0647.png",
+      framework: "vue",
+      taroVersion: "3.6.5",
+      screenshot: [
+        "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F2016045292204621150.jpg",
+        "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F20160452921747662238.jpg",
+        "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F20160452921564298908.jpg"
+      ]
+    },
+    {
       name: "简小记",
       url: "https://img.briefnote.cn/8.31171a22610d8-4b5.a3c05caac4d4",
       framework: "react",
