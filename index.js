@@ -1,11 +1,22 @@
 const userCases = {
   微信小程序: [
     {
-    name: "we重邮",
-    url: "https://raw.githubusercontent.com/cheerioInf/public-images/master/202305101147734.png",
-    framework: "react",
-    taroVersion: "3.5.7",
-    screenshot: ["https://raw.githubusercontent.com/cheerioInf/public-images/master/0.png", "https://raw.githubusercontent.com/cheerioInf/public-images/master/510B59A725A1874611796EE54A88C6C8.png"]
+      name: "we重邮",
+      url: "https://raw.githubusercontent.com/cheerioInf/public-images/master/202305101147734.png",
+      framework: "react",
+      taroVersion: "3.5.7",
+      screenshot: ["https://raw.githubusercontent.com/cheerioInf/public-images/master/0.png", "https://raw.githubusercontent.com/cheerioInf/public-images/master/510B59A725A1874611796EE54A88C6C8.png"]
+    },
+    {
+      name: "baby喂养记录",
+      url: "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F3EAC2DC0-B37B-473e-9968-DA07749A0647.png",
+      framework: "vue",
+      taroVersion: "3.6.5",
+      screenshot: [
+        "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F2016045292204621150.jpg",
+        "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F20160452921747662238.jpg",
+        "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F20160452921564298908.jpg"
+      ]
     },
     {
       name: "简小记",
