@@ -1391,6 +1391,13 @@ const userCases = {
   ],
   支付宝小程序: [
     {
+      name: "YH永辉生活",
+      url: "https://image.yonghuivip.com/github/alipay_qrcode.jpg",
+      framework: "taro",
+      taroVersion: "3.5.4",
+      screenshot: []
+    },
+    {
       name: "e代驾",
       url: "https://img13.360buyimg.com/ling/jfs/t1/143485/7/19740/23365/5fe2eadcEcbf2c30f/02d7a8ae5cb545d8.png",
       framework: "",
