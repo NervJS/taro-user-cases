@@ -1315,6 +1315,13 @@ const userCases = {
   ],
   H5: [
     {
+      name: "DUXUI-UI库",
+      url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/h5.png",
+      framework: "react",
+      taroVersion: "3.6.7",
+      screenshot: []
+    },
+    {
       name: "袋小鼠爱编程",
       url: "https://www.tdreamer.com/images/codekidtop/h5_web_qrcode.png",
       framework: "",
