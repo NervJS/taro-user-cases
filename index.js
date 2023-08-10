@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "DUXUI-UI库",
+      url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
+      framework: "react",
+      taroVersion: "3.6.7",
+      screenshot: []
+    },
+    {
       name: "baby喂养记录",
       url: "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F3EAC2DC0-B37B-473e-9968-DA07749A0647.png",
       framework: "vue",
@@ -1553,6 +1560,13 @@ const userCases = {
     }
   ],
   移动端应用: [
+    {
+      name: "DUXUI-UI库",
+      url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/app.png",
+      framework: "react",
+      taroVersion: "3.6.7",
+      screenshot: []
+    },
     {
       name: "Taro Playground",
       url: "https://wos.58cdn.com.cn/IjGfEdCbIlr/ishare/pic_d3137b5937U5d1XdWcU735Xd7b5a5a37.png",
