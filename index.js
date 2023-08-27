@@ -1,5 +1,12 @@
 const userCases = {
   微信小程序: [
+     {
+      name: "啃券狗",
+      url: "https://shop-img.ionic.fun/gh_f721ab07b5df_258.jpg",
+      framework: "react",
+      taroVersion: "3.4.14",
+      screenshot: []
+    },
     {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
