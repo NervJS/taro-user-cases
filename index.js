@@ -1311,6 +1311,13 @@ const userCases = {
       framework: "react",
       taroVersion: "3.5.7",
       screenshot: []
+    },
+    {
+      name: "毕马威数字空间站",
+      url: "https://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3857373536&token=1537995776",
+      framework: "vue",
+      taroVersion: "3.6.15",
+      screenshot: []
     }
   ],
   H5: [
