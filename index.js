@@ -4,7 +4,7 @@ const userCases = {
       name: "傻大妈计算器",
       url: "https://whinc.github.io/assets/images/qrcode-c7de1572bcfafbee75e82c688d1cdb03.jpg",
       framework: "react",
-      taroVersion: "3.6.0",
+      taroVersion: "3.6.18",
       screenshot: [
         "https://whinc.github.io/assets/images/IMG_4135-6c59956b0c9d99062c446cdbea0511f5.PNG",
         "https://whinc.github.io/assets/images/IMG_4134-e9cb4cb8b6a52e9b9c545c72ec971e7c.PNG"
