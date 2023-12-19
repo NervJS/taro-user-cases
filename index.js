@@ -1,6 +1,15 @@
 const userCases = {
   微信小程序: [
     {
+      name: "飞米fiimii",
+      url: "https://happyjob-1308092836.cos.ap-guangzhou.myqcloud.com/fiimii.png",
+      framework: "vue2",
+      taroVersion: "3.5.6",
+      screenshot: [
+        "https://happyjob-1308092836.cos.ap-guangzhou.myqcloud.com/fiimii-home.jpg"
+      ]
+    },
+    {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
       framework: "react",
