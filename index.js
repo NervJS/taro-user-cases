@@ -1,13 +1,16 @@
 const userCases = {
   微信小程序: [
      {
-      name: "傻大妈计算器",
-      url: "https://whinc.github.io/assets/images/qrcode-c7de1572bcfafbee75e82c688d1cdb03.jpg",
+      name: "小而美工具",
+      url: "https://whinc.github.io/assets/images/qrcode_soso-8b537763d45794fecc464ee96c4a3023.png",
       framework: "react",
-      taroVersion: "3.6.18",
+      taroVersion: "3.6.23",
       screenshot: [
-        "https://whinc.github.io/assets/images/IMG_4135-6c59956b0c9d99062c446cdbea0511f5.PNG",
-        "https://whinc.github.io/assets/images/IMG_4134-e9cb4cb8b6a52e9b9c545c72ec971e7c.PNG"
+        "https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/a94f0ea7-2438-499c-b9e9-d5a1255280f5.png",
+        "https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/cd38d252-6800-49c6-a5ac-eede07376489.png",
+        "https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/c0286481-5c3c-4549-8fc1-8b4d264f67b6.png",
+        "https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/73776f77-eb21-4677-8ab0-2dab73b30c4e.png",
+        "https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/fceded50-50a9-411f-9338-f33c8a41a2ad.png"
       ]
     },
     {
