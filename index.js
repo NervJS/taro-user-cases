@@ -1,6 +1,20 @@
 const userCases = {
   微信小程序: [
     {
+      name: "antd-taro",
+      url: "https://kne-union.github.io/antd-taro/index.jpg",
+      framework: "react",
+      taroVersion: "3.6.7",
+      screenshot: []
+    },
+    {
+      name: "mini-core",
+      url: "https://kne-union.github.io/mini-core/index.jpg",
+      framework: "react",
+      taroVersion: "3.6.7",
+      screenshot: []
+    },
+    {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
       framework: "react",
