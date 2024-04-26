@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "支出记账本",
+      url: "https://mp-36a5d21c-c6e9-4cac-8e7c-7b0d0548d2b8.cdn.bspapp.com/weixinzhichujizhangben.jpg",
+      framework: "vue",
+      taroVersion: "3.6.5",
+      screenshot: []
+    },
+    {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
       framework: "react",
