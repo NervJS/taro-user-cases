@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "菜鸟集运",
+      url: "https://gw.alicdn.com/imgextra/i2/O1CN01ThWyk41zY6Uz951sF_!!6000000006725-0-tps-258-258.jpg",
+      framework: "React",
+      taroVersion: "3.6.22",
+      screenshot: []
+    },
+    {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
       framework: "react",
@@ -1314,6 +1321,13 @@ const userCases = {
     }
   ],
   H5: [
+    {
+      name: "菜鸟集运H5",
+      url: "https://gw.alicdn.com/imgextra/i2/O1CN01dBo8xW1KBIX84tjbj_!!6000000001125-0-tps-646-634.jpg",
+      framework: "React",
+      taroVersion: "3.6.22",
+      screenshot: []
+    },
     {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/h5.png",
