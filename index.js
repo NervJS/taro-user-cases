@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "科力普供应链",
+      url: "https://clpres.oss-cn-shanghai.aliyuncs.com/smb/vendor/vendor-wx-code.png",
+      framework: "react",
+      taroVersion: "3.5.11",
+      screenshot: []
+    },
+    {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
       framework: "react",
