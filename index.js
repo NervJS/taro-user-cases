@@ -1,5 +1,17 @@
 const userCases = {
   微信小程序: [
+     {
+      name: "悦骑行",
+      url: "https://github.com/yunhouhuang/images/blob/master/qrcode-yqx.jpg?raw=true",
+      framework: "react",
+      taroVersion: "4.0.7",
+      screenshot: [
+        "https://github.com/yunhouhuang/images/blob/master/IMG_9586.PNG?raw=true",
+        "https://github.com/yunhouhuang/images/blob/master/IMG_9587.PNG?raw=true",
+        "https://github.com/yunhouhuang/images/blob/master/IMG_9588.PNG?raw=true",
+        "https://github.com/yunhouhuang/images/blob/master/IMG_9584.PNG?raw=true"
+      ]
+    },
     {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
