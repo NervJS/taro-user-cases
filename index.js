@@ -1311,6 +1311,13 @@ const userCases = {
       framework: "react",
       taroVersion: "3.5.7",
       screenshot: []
+    },
+    {
+      name: "deepin社区论坛",
+      url: "https://www.deepin.org/wp-content/uploads/2023/11/deepin%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%A0%81.png",
+      framework: "vue",
+      taroVersion: "4.0.4",
+      screenshot: []
     }
   ],
   H5: [
