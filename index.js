@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "HS卡牌大师",
+      url: "https://i.imgs.ovh/2025/05/19/S21qX.jpeg",
+      framework: "react",
+      taroVersion: "4.0.12",
+      screenshot: ["https://i.imgs.ovh/2025/05/19/SH0bm.jpeg", "https://i.imgs.ovh/2025/05/19/S2i0F.jpeg", "https://i.imgs.ovh/2025/05/19/S23EQ.jpeg"]
+    },
+    {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
       framework: "react",
