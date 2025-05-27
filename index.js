@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "知心MBTI",
+      url: "https://static.getiot.tech/ad-2025-zhixin-mbti-miniapp.webp",
+      framework: "react",
+      taroVersion: "4.0.12",
+      screenshot: []
+    },
+    {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
       framework: "react",
