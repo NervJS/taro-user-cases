@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "亲戚关系小助手",
+      url: "https://mirror.hiwebpage.com/minicode/images/relationship-qr.png",
+      framework: "react",
+      taroVersion: "4.1.3",
+      screenshot: []
+    },
+    {
       name: "DUXUI-UI库",
       url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
       framework: "react",
