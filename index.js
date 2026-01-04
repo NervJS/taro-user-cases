@@ -8,6 +8,13 @@ const userCases = {
       screenshot: []
     },
     {
+      name: "导览租车",
+      url: "https://moshisoft.cn/pics/miniapp/wxe6c2d251cd936xxx.jpg",
+      framework: "react",
+      taroVersion: "3.6.x",
+      screenshot: ["https://moshisoft.cn/pics/miniapp/screenshot_20260104211515_3_385.jpg", "https://moshisoft.cn/pics/miniapp/screenshot_20260104211516_4_385.jpg"]
+    },
+    {
       name: "baby喂养记录",
       url: "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F3EAC2DC0-B37B-473e-9968-DA07749A0647.png",
       framework: "vue",
