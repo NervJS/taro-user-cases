@@ -8,6 +8,13 @@ const userCases = {
       screenshot: []
     },
     {
+      name: "波波知了",
+      url: "https://raw.githubusercontent.com/y213140/public-img/refs/heads/main/%E4%B8%8B%E8%BD%BD.png",
+      framework: "react",
+      taroVersion: "3.5.11",
+      screenshot: []
+    },
+    {
       name: "baby喂养记录",
       url: "https://mini-app-project-1302387394.cos.ap-nanjing.myqcloud.com/mini-baby%2F3EAC2DC0-B37B-473e-9968-DA07749A0647.png",
       framework: "vue",
